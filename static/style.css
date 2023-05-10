@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&display=swap');
+body {
+  background-color: rgb(16, 16, 16);
+  color: white;
+  font-family: "Lora";
+  text-decoration: none;
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+
+#table {
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#table p {
+  font-size: 1.3em;
+}
+
+#content {
+  white-space: pre-line;
+  margin-right: 15%;
+  margin-left: 15%;
+  line-height: 2;
+}
+
+#content h2 {
+  line-height: 0;
+}
+
+
+
+#references {
+    padding-left: 22px ;
+    text-indent: -22px ;
+    line-height: 2;
+    white-space: normal;
+}
+
+
+a {
+  color: white;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: black;
+  background-color: white;
+}
+ul li
+{
+    list-style-type: none;
+}
+
+p {
+  font-family: "Lora"
+}
+
+nav {
+  font-size: 135%;
+  margin: 2.5%;
+}
+
+
+nav li {
+  display: inline;
+  float: right;
+  margin-left: 20px;
+  font-size: 1.1em;
+}
+
+#title {
+  font-size: 1.5em;
+  float:none;
+}
+
+#textGen {
+  margin: 15px;
+  font-family: "Lato";
+}
+
+/* Buttons */
+
+button {
+  font-size: 1.5em;
+  background: none;
+  border: white 2px solid;
+  color: white;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+
+button:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+  text-decoration: underline;
+}
+
+/* Animations */
+
+body {
+    animation: fadein 2s;
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}

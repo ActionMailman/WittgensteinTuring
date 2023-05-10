@@ -1,0 +1,4034 @@
+Preface
+
+this book will perhaps only be understood by those who have them-
+selves already thought the thoughts which are expressed in itor similar
+thoughts. It is therefore not a text-book. Its ob ject would be attained
+if there were one person who read it with understanding and to whom it
+aorded pleasure.
+
+The book deals with the problems of philosophy and shows, as i
+believe, that the method of formulating these problems rests on the mis-
+understanding of the logic of our language. Its whole meaning could be
+summed up somewhat as follows: what can be said at all can be said
+clearly; and whereof one cannot speak thereof one must be silent.
+
+The book will, therefore, draw a limit to thinking, or rathernot to
+thinking, but to the expression of thoughts; for, in order to draw a limit
+to thinking we should have to be able to think both sides of this limit
+(we should therefore have to be able to think what cannot be thought).
+
+The limit can, therefore, only be drawn in language and what lies on
+the other side of the limit will be simply nonsense.
+
+How far my eorts agree with those of other philosophers i will not
+decide. Indeed what i have here written makes no claim to novelty in
+points of detail; and therefore i give no sources, because it is indierent
+to me whether what i have thought has already been thought before me
+by another.
+
+I will only mention that to the great works of frege and the writings
+of my friend bertrand russell i owe in large measure the stimulation of
+my thoughts.
+
+If this work has a value it consists in two things. First that in it
+thoughts are expressed, and this value will be the greater the better the
+thoughts are expressed. The more the nail has been hit on the head.
+Here i am conscious that i have fallen far short of the possible. Simply
+because my powers are insucient to cope with the task. May others
+come and do it better.
+
+23
+truth on the other hand the of the thoughts communicated here seems
+
+to me unassailable and denitive. I am, therefore, of the opinion that the
+
+problems have in essentials been nally solved. And if i am not mistaken
+
+in this, then the value of this work secondly consists in the fact that it
+
+shows how little has been done when these problems have been solved.
+
+24
+1 the world is everything that is the case. *
+
+1.1 the world is the totality of facts, not of things.
+1.11
+all the world is determined by the facts, and by these being the
+
+facts.
+
+1.12 for the totality of facts determines both what is the case, and
+also all that is not the case.
+
+1.13 the facts in logical space are the world.
+
+1.2 the world divides into facts.
+
+1.21 any one can either be the case or not be the case, and everything
+else remain the same.
+
+2 what is the case, the fact, is the existence of atomic facts.
+
+2.01 an atomic fact is a combination of ob jects (entities, things).
+
+2.011 it is essential to a thing that it can be a constituent part of an
+2.012
+atomic fact.
+
+Can in logic nothing is accidental: if a thing occur in an atomic
+
+fact the possibility of that atomic fact must already be prejudged
+
+in the thing.
+
+2.0121 it would, so to speak, appear as an accident, when to a thing
+that could exist alone on its own account, subsequently a state
+of aairs could be made to t.
+
+If things can occur in atomic facts, this possibility must al-
+ready lie in them.
+
+*the decimal gures as numbers of the separate propositions indicate the logical
+
+importance of the propositions, the emphasis laid upon them in my exposition. The
+propositions n.1, n.2, n.3, etc. , are comments on proposition no. N ; the propositions
+n. M 1, n. M 2, etc. , are comments on the proposition no. N. M ; and so on.
+
+25
+tractatus logico-philosophicus
+
+(a logical entity cannot be merely possible. Logic treats of
+every possibility, and all possibilities are its facts. )
+
+just as we cannot think of spatial ob jects at all apart from
+
+space, or temporal objects apart from time, so we cannot think
+
+any of object apart from the possibility of its connexion with
+
+other things.
+
+If i can think of an object in the context of an atomic fact,
+
+possibility i cannot think of it apart from the of this context.
+
+2.0122 pos- the thing is independent, in so far as it can occur in all
+sible circumstances, but this form of independence is a form of
+
+connexion with the atomic fact, a form of dependence. (it is
+
+impossible for words to occur in two dierent ways, alone and in the proposition. )
+
+2.0123 if i know an object, then i also know all the possibilities of its
+occurrence in atomic facts.
+
+(every such possibility must lie in the nature of the object. )
+
+a new possibility cannot subsequently be found.
+
+2.01231 in order to know an object, i must know not its external but all
+
+its internal qualities.
+
+Possible 2.0124 if all objects are given, then thereby are all atomic facts
+
+also given.
+
+2.013 every thing is, as it were, in a space of possible atomic facts. I
+can think of this space as empty, but not of the thing without
+the space.
+
+2.0131 a spatial object must lie in innite space. (a point in space is
+a place for an argument. )
+
+a speck in a visual eld need not be red, but it must have a
+
+colour; it has, so to speak, a colour space round it. A tone must
+
+a a have pitch, the object of the sense of touch hardness, etc.
+
+2.014 objects contain the possibility of all states of aairs.
+
+2.0141 the possibility of its occurrence in atomic facts is the form of
+the object.
+
+2.02 the object is simple.
+
+2.0201 every statement about complexes can be analysed into a state-
+
+26
+tractatus logico-philosophicus
+
+ment about their constituent parts, and into those propositions
+which completely describe the complexes.
+
+2.021 objects form the substance of the world. Therefore they cannot
+be compound.
+
+2.0211 if the world had no substance, then whether a proposition had
+sense would depend on whether another proposition was true.
+
+2.0212 it would then be impossible to form a picture of the world (true
+or false).
+
+2.022 it is clear that however dierent from the real one an imagined
+world may be, it must have somethinga formin common
+with the real world.
+
+2.023 this xed form consists of the objects.
+2.0231
+can the substance of the world only determine a form and not
+
+any material properties. For these are rst presented by the
+
+propositionsrst formed by the conguration of the ob jects.
+
+2.0232 roughly speaking: objects are colourless.
+
+2.0233 two objects of the same logical form areapart from their ex-
+ternal propertiesonly dierentiated from one another in that
+they are dierent.
+
+2.02331 either a thing has properties which no other has, and then one
+can distinguish it straight away from the others by a description
+and refer to it; or, on the other hand, there are several things
+which have the totality of their properties in common, and then
+it is quite impossible to point to any one of them.
+For if a thing is not distinguished by anything, i cannot dis-
+tinguish itfor otherwise it would be distinguished.
+
+2.024 substance is what exists independently of what is the case.
+
+2.025 it is form and content.
+
+2.0251 space, time and colour (colouredness) are forms of objects.
+
+2.026 only if there are ob jects can there be a xed form of the world.
+
+2.027 the xed, the existent and the ob ject are one.
+
+2.0271 the ob ject is the xed, the existent; the conguration is the
+changing, the variable.
+
+27
+tractatus logico-philosophicus
+
+2.0272 the conguration of the ob jects forms the atomic fact.
+
+2.03 in the atomic fact objects hang one in another, like the members
+of a chain.
+
+2.031 in the atomic fact the ob jects are combined in a denite way.
+
+2.032 the way in which objects hang together in the atomic fact is
+the structure of the atomic fact.
+
+2.033 the form is the possibility of the structure.
+
+2.034 the structure of the fact consists of the structures of the atomic
+facts.
+
+2.04 the totality of existent atomic facts is the world.
+
+2.05 the totality of existent atomic facts also determines which atom-
+ic facts do not exist.
+
+2.06 the existence and non-existence of atomic facts is the reality.
+(the existence of atomic facts we also call a positive fact,
+
+their non-existence a negative fact. )
+
+2.061 atomic facts are independent of one another.
+
+2.062 from the existence or non-existence of an atomic fact we cannot
+infer the existence or non-existence of another.
+
+2.063 the total reality is the world.
+
+2.1 we make to ourselves pictures of facts.
+
+2.11 the picture presents the facts in logical space, the existence and
+non-existence of atomic facts.
+
+2.12 the picture is a model of reality.
+
+2.13 to the objects correspond in the picture the elements of the
+picture.
+
+2.131 the elements of the picture stand, in the picture, for the objects.
+
+2.14 the picture consists in the fact that its elements are combined
+with one another in a denite way.
+
+2.141 the picture is a fact.
+
+2.15 that the elements of the picture are combined with one another
+in a denite way, represents that the things are so combined
+with one another.
+
+28
+tractatus logico-philosophicus
+
+this connexion of the elements of the picture is called its
+structure, and the possibility of this structure is called the form
+of representation of the picture.
+
+2.151 the form of representation is the possibility that the things are
+combined with one another as are the elements of the picture.
+
+2.1511 thus the picture is linked with reality; it reaches up to it.
+
+2.1512 it is like a scale applied to reality.
+
+Touch 2.15121 only the outermost points of the dividing lines the ob ject
+
+to be measured.
+
+2.1513 according to this view the representing relation which makes it
+a picture, also belongs to the picture.
+
+2.1514 the representing relation consists of the co-ordinations of the
+elements of the picture and the things.
+
+2.1515 these co-ordinations are as it were the feelers of its elements
+with which the picture touches reality.
+
+2.16 in order to be a picture a fact must have something in common
+with what it pictures.
+
+2.161 in the picture and the pictured there must be something identi-
+cal in order that the one can be a picture of the other at all.
+
+2.17 what the picture must have in common with reality in order to
+be able to represent it after its mannerrightly or falselyis its
+form of representation.
+
+2.171 the picture can represent every reality whose form it has.
+The spatial picture, everything spatial, the coloured, every-
+
+thing coloured, etc.
+
+2.172 the picture, however, cannot represent its form of representa-
+tion; it shows it forth.
+
+2.173 the picture represents its object from without (its standpoint is
+its form of representation), therefore the picture represents its
+object rightly or falsely.
+
+2.174 but the picture cannot place itself outside of its form of repre-
+sentation.
+
+2.18 what every picture, of whatever form, must have in common
+
+29
+tractatus logico-philosophicus
+
+with reality in order to be able to represent it at allrightly or
+falselyis the logical form, that is, the form of reality.
+
+2.181 if the form of representation is the logical form, then the picture
+
+2.182 is called a logical picture.
+
+2.19 also every picture is a logical picture. (on the other hand, for
+2.2
+example, not every picture is spatial. )
+2.201
+the logical picture can depict the world.
+2.202
+2.203 the picture has the logical form of representation in common
+with what it pictures.
+2.21
+the picture depicts reality by representing a possibility of the
+2.22 existence and non-existence of atomic facts.
+
+2.221 the picture represents a possible state of aairs in logical space.
+2.222
+the picture contains the possibility of the state of aairs which
+2.223 it represents.
+
+2.224 the picture agrees with reality or not; it is right or wrong, true
+or false.
+2.225
+3 the picture represents what it represents, independently of its
+3.001 truth or falsehood, through the form of representation.
+3.01
+3.02 what the picture represents is its sense.
+
+In the agreement or disagreement of its sense with reality, its
+truth or falsity consists.
+
+In order to discover whether the picture is true or false we must
+compare it with reality.
+
+It cannot be discovered from the picture alone whether it is true
+or false.
+
+There is no picture which is a priori true.
+
+The logical picture of the facts is the thought.
+
+An atomic fact is thinkablemeans: we can imagine it.
+
+The totality of true thoughts is a picture of the world.
+
+The thought contains the possibility of the state of aairs which
+it thinks.
+
+What is thinkable is also possible.
+
+30
+tractatus logico-philosophicus
+
+3.03 we cannot think anything unlogical, for otherwise we should
+have to think unlogically.
+
+3.031 it used to be said that god could create everything, except what
+
+say was contrary to the laws of logic. The truth is, we could not
+
+of an unlogical world how it would look.
+
+3.032 to present in language anything which contradicts logic is as
+impossible as in geometry to present by its co-ordinates a gure
+which contradicts the laws of space; or to give the co-ordinates
+of a point which does not exist.
+
+3.0321 we could present spatially an atomic fact which contradicted
+the laws of physics, but not one which contradicted the laws of
+geometry.
+
+3.04 an a priori true thought would be one whose possibility guar-
+anteed its truth.
+
+3.05 we could only know a priori that a thought is true if its truth
+was to be recognized from the thought itself (without an object
+of comparison).
+
+3.1 in the proposition the thought is expressed perceptibly through
+the senses.
+
+3.11 we use the sensibly perceptible sign (sound or written sign, etc. )
+of the proposition as a pro jection of the possible state of aairs.
+
+The method of pro jection is the thinking of the sense of the
+proposition.
+
+3.12 the sign through which we express the thought i call the prop-
+ositional sign. And the proposition is the propositional sign in
+its pro jective relation to the world.
+
+3.13 to the proposition belongs everything which belongs to the pro-
+jection; but not what is projected.
+
+Therefore the possibility of what is pro jected but not this
+itself.
+
+In the proposition, therefore, its sense is not yet contained,
+but the possibility of expressing it.
+
+(the content of the proposition means the content of the
+signicant proposition. )
+
+in the proposition the form of its sense is contained, but not
+its content.
+
+31
+tractatus logico-philosophicus
+
+3.14 the propositional sign consists in the fact that its elements, the
+words, are combined in it in a denite way.
+
+The propositional sign is a fact.
+
+3.141 the proposition is not a mixture of words (just as the musical
+theme is not a mixture of tones).
+
+The proposition is articulate.
+
+3.142 only facts can express a sense, a class of names cannot.
+
+3.143 that the propositional sign is a fact is concealed by the ordinary
+form of expression, written or printed.
+
+(for in the printed proposition, for example, the sign of a
+proposition does not appear essentially dierent from a word.
+Thus it was possible for frege to call the proposition a com-
+pounded name. )
+
+3.1431 the essential nature of the propositional sign becomes very clear
+when we imagine it made up of spatial objects (such as tables,
+chairs, books) instead of written signs.
+
+The mutual spatial position of these things then expresses
+the sense of the proposition.
+
+3.1432 arb a we must not say, the complex sign `
+3.144 ' says ` stands in
+
+r b that a relation
+to '; but we must say, ` ' stands in a certain
+
+that b relation to ` ' says arb.
+
+Named states of aairs can be described but not.
+
+(names resemble points; propositions resemble arrows, they
+have sense. )
+
+3.2 in propositions thoughts can be so expressed that to the objects
+of the thoughts correspond the elements of the propositional
+sign.
+
+3.201 these elements i call simple signs and the proposition com-
+pletely analysed.
+
+3.202 the simple signs employed in propositions are called names.
+3.203
+a the name means the object. The object is its meaning. ( is
+a the same sign as . )
+
+3.21 to the conguration of the simple signs in the propositional
+sign corresponds the conguration of the ob jects in the state of
+aairs.
+
+32
+tractatus logico-philosophicus
+
+3.22 in the proposition the name represents the ob ject.
+3.221
+3.23 name objects i can only . Signs represent them. I can only speak
+3.24
+of assert them how them. I cannot
+3.25 . A proposition can only say
+3.251
+3.26 what a thing is, not it is.
+3.261
+the postulate of the possibility of the simple signs is the postu-
+3.262 late of the determinateness of the sense.
+3.263
+a proposition about a complex stands in internal relation to the
+proposition about its constituent part.
+
+A complex can only be given by its description, and this
+will either be right or wrong. The proposition in which there
+is mention of a complex, if this does not exist, becomes not
+nonsense but simply false.
+
+That a propositional element signies a complex can be seen
+
+from an indeterminateness in the propositions in which it oc-
+
+know curs. We that everything is not yet determined by this
+
+contains proposition. (the notation for generality a prototype. )
+
+the combination of the symbols of a complex in a simple
+symbol can be expressed by a denition.
+
+There is one and only one complete analysis of the proposition.
+
+The proposition expresses what it expresses in a denite and
+clearly speciable way: the proposition is articulate.
+
+The name cannot be analysed further by any denition. It is a
+
+primitive sign.
+
+Via every dened sign signies those signs by which it is dened,
+
+and the denitions show the way.
+
+Two signs, one a primitive sign, and one dened by primitive
+
+cannot signs, cannot signify in the same way. Names be taken to
+
+pieces by denition (nor any sign which alone and independently
+
+has a meaning).
+
+What does not get expressed in the sign is shown by its appli-
+cation. What the signs conceal, their application declares.
+
+The meanings of primitive signs can be explained by elucida-
+tions. Elucidations are propositions which contain the primitive
+signs. They can, therefore, only be understood when the mean-
+ings of these signs are already known.
+
+33
+tractatus logico-philosophicus
+
+3.3 only the proposition has sense; only in the context of a propo-
+3.31 sition has a name meaning.
+
+3.311 every part of a proposition which characterizes its sense i call
+3.312 an expression (a symbol).
+3.313
+3.314 (the proposition itself is an expression. )
+3.315 expressions are everythingessential for the sense of the
+propositionthat propositions can have in common with one
+3.316 another.
+An expression characterizes a form and a content.
+
+An expression presupposes the forms of all propositions in which
+it can occur. It is the common characteristic mark of a class of
+propositions.
+
+It is therefore represented by the general form of the propositions
+
+which it characterizes.
+
+Constant and in this form the expression is and everything
+
+else variable.
+
+An expression is thus presented by a variable, whose values are
+the propositions which contain the expression.
+
+(in the limiting case the variables become constants, the ex-
+pression a proposition. )
+
+i call such a variable a propositional variable.
+
+An expression has meaning only in a proposition. Every variable
+can be conceived as a propositional variable.
+
+(including the variable name. )
+
+if we change a constituent part of a proposition into a variable,
+there is a class of propositions which are all the values of the re-
+sulting variable proposition. This class in general still depends
+on what, by arbitrary agreement, we mean by parts of that prop-
+osition. But if we change all those signs, whose meaning was ar-
+bitrarily determined, into variables, there always remains such
+a class. But this is now no longer dependent on any agreement;
+it depends only on the nature of the proposition. It corresponds
+to a logical form, to a logical prototype.
+
+What values the propositional variable can assume is deter-
+mined.
+
+34
+tractatus logico-philosophicus
+
+is the determination of the values the variable.
+
+3.317 the determination of the values of the propositional variable
+
+3.318 is done by indicating the propositions whose common mark the
+3.32
+3.321 variable is.
+3.322
+3.323 the determination is a description of these propositions.
+
+The determination will therefore deal only with symbols not
+
+with their meaning.
+
+Only that it is and
+this is essential to the determination,
+
+only a description of symbols and asserts nothing about what is
+
+symbolized.
+
+The way in which we describe the propositions is not essen-
+tial.
+
+I conceive the propositionlike frege and russellas a function
+of the expressions contained in it.
+
+The sign is the part of the symbol perceptible by the senses.
+
+Two dierent symbols can therefore have the sign (the written
+sign or the sound sign) in commonthey then signify in dierent
+ways.
+
+It can never indicate the common characteristic of two objects
+
+that we symbolize them with the same signs but by dierent
+
+methods of symbolizing. For the sign is arbitrary. We could
+
+therefore equally well choose two dierent signs and where then
+
+would be what was common in the symbolization.
+
+In the language of everyday life it very often happens that the
+same word signies in two dierent waysand therefore belongs
+to two dierent symbolsor that two words, which signify in
+dierent ways, are apparently applied in the same way in the
+proposition.
+
+Thus the word is appears as the copula, as the sign of
+
+equality, and as the expression of existence; to exist as an
+
+intransitive verb like to go; identical as an adjective; we speak
+
+something something of
+but also of the fact of happening.
+
+(in the proposition green is greenwhere the rst word is
+
+a proper name and the last an adjectivethese words have not
+
+dierent symbols merely dierent meanings but they are . )
+
+35
+tractatus logico-philosophicus
+
+3.324 thus there easily arise the most fundamental confusions (of
+3.325 which the whole of philosophy is full).
+
+3.326 in order to avoid these errors, we must employ a symbolism
+3.327
+3.328 which excludes them, by not applying the same sign in dierent
+3.33
+3.331 symbols and by not applying signs in the same way which signify
+3.332
+3.333 in dierent ways. A symbolism, that is to say, which obeys the
+
+logical rules of grammarof logical syntax.
+
+(the logical symbolism of frege and russell is such a lan-
+guage, which, however, does still not exclude all errors. )
+
+in order to recognize the symbol in the sign we must consider
+the signicant use.
+
+The sign determines a logical form only together with its logical
+
+syntactic application.
+
+Not necessary if a sign is then it is meaningless. That is the
+
+meaning of occam's razor.
+
+(if everything in the symbolism works as though a sign had
+meaning, then it has meaning. )
+
+in logical syntax the meaning of a sign ought never to play a
+
+rle; it must admit of being established without mention being
+
+meaning thereby made of the of a sign; it ought to presuppose
+
+only the description of the expressions.
+
+The- from this observation we get a further viewinto russell's
+ory of types. Russell's error is shown by the fact that in drawing
+
+up his symbolic rules he has to speak of the meaning of the signs.
+
+No proposition can say anything about itself, because the prop-
+ositional sign cannot be contained in itself (that is the whole
+theory of types).
+
+A function cannot be its own argument, because the functional
+
+sign already contains the prototype of its own argument and it
+
+cannot contain itself.
+
+F (f x) if, for example, we suppose that the function could
+
+be its own argument, then there would be a proposition
+
+f (f (f x)) f
+, and in this the outer function and the inner
+
+f function must have dierent meanings; for the inner has
+
+the form (f x), the outer the form ((f x)). Common to
+
+36
+tractatus logico-philosophicus
+
+f both functions is only the letter , which by itself signies
+
+nothing.
+
+F (f (u)) () : this is at once clear, if instead of
+we write
+
+f (u) . U = f u.
+
+Herewith russell's paradox vanishes.
+
+3.334 the rules of logical syntax must follow of themselves, if we only
+know how every single sign signies.
+
+3.34 a proposition possesses essential and accidental features.
+Accidental are the features which are due to a particular way
+
+of producing the propositional sign. Essential are those which
+alone enable the proposition to express its sense.
+
+3.341 the essential in a proposition is therefore that which is common
+to all propositions which can express the same sense.
+
+And in the same way in general the essential in a symbol is
+that which all symbols which can full the same purpose have
+in common.
+
+3.3411 one could therefore say the real name is that which all symbols,
+3.342
+which signify an ob ject, have in common. It would then follow,
+
+step by step, that no sort of composition was essential for a
+
+name.
+
+This in our notations there is indeed something arbitrary, but
+
+if is not arbitrary, namely that we have determined anything
+
+must arbitrarily, then something else be the case. (this results
+
+essence from the of the notation. )
+
+3.3421 a particular method of symbolizing may be unimportant, but it
+
+possible is always important that this is a method of symboliz-
+
+ing. And this happens as a rule in philosophy: the single thing
+
+proves over and over again to be unimportant, but the possibil-
+
+ity of every single thing reveals something about the nature of
+
+the world.
+
+3.343 denitions are rules for the translation of one language into
+
+another. Every correct symbolism must be translatable into
+
+this every other according to such rules. It is which all have in
+
+common.
+
+37
+tractatus logico-philosophicus
+
+3.344 what signies in the symbol is what is common to all those
+symbols by which it can be replaced according to the rules of
+logical syntax.
+
+3.3441 we can, for example, express what is common to all notations
+
+for the truth-functions as follows: it is common to them that
+
+can be replaced they all, for example, p by the notations of
+
+p p q p q (not ) and
+( or ).
+
+(herewith is indicated the way in which a special possible
+notation can give us general information. )
+
+3.3442 the sign of the complex is not arbitrarily resolved in the analysis,
+in such a way that its resolution would be dierent in every
+propositional structure.
+
+3.4 the proposition determines a place in logical space: the exis-
+tence of this logical place is guaranteed by the existence of the
+constituent parts alone, by the existence of the signicant prop-
+osition.
+
+3.41 the propositional sign and the logical co-ordinates: that is the
+logical place.
+
+3.411 the geometrical and the logical place agree in that each is the
+possibility of an existence.
+
+3.42 although a proposition may only determine one place in logical
+space, the whole logical space must already be given by it.
+
+(otherwise denial, the logical sum, the logical product, etc. ,
+would always introduce new elementsin co-ordination. )
+
+(the logical scaolding round the picture determines the log-
+ical space. The proposition reaches through the whole logical
+space. )
+
+3.5 the applied, thought, propositional sign is the thought.
+
+4 the thought is the signicant proposition.
+
+4.001 the totality of propositions is the language.
+
+4.002 man possesses the capacity of constructing languages, in which
+every sense can be expressed, without having an idea how and
+what each word meansjust as one speaks without knowing how
+the single sounds are produced.
+
+38
+tractatus logico-philosophicus
+
+colloquial language is a part of the human organism and is
+not less complicated than it.
+
+From it it is humanly impossible to gather immediately the
+logic of language.
+
+Language disguises the thought; so that from the external
+form of the clothes one cannot infer the form of the thought they
+clothe, because the external form of the clothes is constructed
+with quite another object than to let the form of the body be
+recognized.
+
+The silent adjustments to understand colloquial language are
+enormously complicated.
+
+4.003 most propositions and questions, that have been written about
+philosophical matters, are not false, but senseless. We can-
+not, therefore, answer questions of this kind at all, but only
+state their senselessness. Most questions and propositions of
+the philosophers result from the fact that we do not understand
+the logic of our language.
+
+(they are of the same kind as the question whether the good
+is more or less identical than the beautiful. )
+
+and so it is not to be wondered at that the deepest problems
+
+no are really problems.
+
+4.0031 all philosophy is critique of language (but not at all in mauth-
+ner's sense). Russell's merit is to have shown that the apparent
+logical form of the proposition need not be its real form.
+
+4.01 the proposition is a picture of reality.
+The proposition is a model of the reality as we think it is.
+
+4.011 at the rst glance the propositionsay as it stands printed on
+4.012 paperdoes not seem to be a picture of the reality of which it
+treats. But nor does the musical score appear at rst sight to
+be a picture of a musical piece; nor does our phonetic spelling
+(letters) seem to be a picture of our spoken language. And yet
+these symbolisms prove to be pictureseven in the ordinary
+sense of the wordof what they represent.
+
+Arb it is obvious that we perceive a proposition of the form as
+
+a picture. Here the sign is obviously a likeness of the signied.
+
+4.013 and if we penetrate to the essence of this pictorial nature we
+
+39
+tractatus logico-philosophicus
+
+apparent irregularities see that this is not disturbed by (like the
+
+use of and in the score).
+
+For these irregularities also picture what they are to express;
+only in another way.
+
+4.014 the gramophone record, the musical thought, the score, the
+waves of sound, all stand to one another in that pictorial internal
+relation, which holds between language and the world. To all of
+them the logical structure is common.
+
+(like the two youths, their two horses and their lilies in the
+story. They are all in a certain sense one. )
+
+4.0141 in the fact that there is a general rule by which the musician is
+able to read the symphony out of the score, and that there is
+a rule by which one could reconstruct the symphony from the
+line on a gramophone record and from this againby means
+of the rst ruleconstruct the score, herein lies the internal
+similarity between these things which at rst sight seem to be
+entirely dierent. And the rule is the law of projection which
+projects the symphony into the language of the musical score.
+It is the rule of translation of this language into the language of
+the gramophone record.
+
+4.015 the possibility of all similes, of all the imagery of our language,
+rests on the logic of representation.
+
+4.016 in order to understand the essence of the proposition, consider
+hieroglyphic writing, which pictures the facts it describes.
+
+And from it came the alphabet without the essence of the
+representation being lost.
+
+4.02 this we see from the fact that we understand the sense of the
+propositional sign, without having had it explained to us.
+
+4.021 the proposition is a picture of reality, for i know the state of
+4.022
+aairs presented by it, if i understand the proposition. And i
+
+understand the proposition, without its sense having been ex-
+
+plained to me.
+
+Shows the proposition its sense.
+
+Shows if the proposition
+how things stand, it is true. And
+
+says it , that they do so stand.
+
+40
+tractatus logico-philosophicus
+
+4.023 the proposition determines reality to this extent, that one only
+needs to say yes or no to it to make it agree with reality.
+4.024
+4.025 it must therefore be completely described by the proposition.
+4.026 a proposition is the description of a fact.
+4.027 as the description of an object describes it by its external
+4.03 properties so propositions describe reality by its internal prop-
+4.031 erties.
+The proposition constructs a world with the help of a logical
+scaolding, and therefore one can actually see in the proposition
+all the logical features possessed by reality if it is true. One can
+
+draw conclusions from a false proposition.
+
+To understand a proposition means to know what is the case, if
+it is true.
+
+(one can therefore understand it without knowing whether
+it is true or not. )
+
+one understands it if one understands its constituent parts.
+
+The translation of one language into another is not a process
+of translating each proposition of the one into a proposition of
+the other, but only the constituent parts of propositions are
+translated.
+
+(and the dictionary does not only translate substantives but
+also adverbs and conjunctions, etc. , and it treats them all alike. )
+
+the meanings of the simple signs (the words) must be explained
+to us, if we are to understand them.
+
+By means of propositions we explain ourselves.
+
+New it is essential to propositions, that they can communicate a
+
+sense to us.
+
+A proposition must communicate a new sense with old words.
+
+The proposition communicates to us a state of aairs, there-
+
+essentially fore it must be connected with the state of aairs.
+
+And the connexion is, in fact, that it is its logical picture.
+
+The proposition only asserts something, in so far as it is a
+picture.
+
+In the proposition a state of aairs is, as it were, put together
+for the sake of experiment.
+
+41
+tractatus logico-philosophicus
+
+one can say, instead of, this proposition has such and such
+a sense, this proposition represents such and such a state of
+aairs.
+
+4.0311 one name stands for one thing, and another for another thing,
+and they are connected together. And so the whole, like a living
+picture, presents the atomic fact.
+
+4.0312 the possibility of propositions is based upon the principle of the
+representation of objects by signs.
+
+My fundamental thought is that the logical constants do
+
+logic not represent. That the of the facts cannot be represented.
+
+4.032 the proposition is a picture of its state of aairs, only in so far
+as it is logically articulated.
+
+(even the proposition ambulo is composite, for its stem
+gives a dierent sense with another termination, or its termina-
+tion with another stem. )
+
+4.04 in the proposition there must be exactly as many things distin-
+guishable as there are in the state of aairs, which it represents.
+
+They must both possess the same logical (mathematical)
+multiplicity (cf. Hertz's mechanics, on dynamic models).
+
+4.041 this mathematical multiplicity naturally cannot in its turn be
+represented. One cannot get outside it in the representation.
+
+4.0411 (x). F x if we tried, for example, to express what is expressed by
+
+f x f x by putting an index before
+, like: gen. , it would not do,
+
+we should not know what was generalized. If we tried to show
+
+g f (x ) it by an index , like:
+g it would not dowe should not
+
+know the scope of the generalization.
+
+If we were to try it by introducing a mark in the argument
+
+(g, g) . F (g, g) places, like , it would not dowe could not
+
+determine the identity of the variables, etc.
+
+All these ways of symbolizing are inadequate because they
+have not the necessary mathematical multiplicity.
+
+4.0412 for the same reason the idealist explanation of the seeing of spa-
+tial relations through spatial spectacles does not do, because
+it cannot explain the multiplicity of these relations.
+
+4.05 reality is compared with the proposition.
+
+42
+tractatus logico-philosophicus
+
+4.06 propositions can be true or false only by being pictures of the
+reality.
+
+4.061 if one does not observe that propositions have a sense inde-
+pendent of the facts, one can easily believe that true and false
+are two relations between signs and things signied with equal
+rights.
+
+P one could then, for example, say that signies in the true
+p way what signies in the false way, etc.
+
+4.062 can we not make ourselves understood by means of false propo-
+4.0621
+sitions as hitherto with true ones, so long as we know that they
+
+are meant to be false? No! For a proposition is true, if what
+
+p p we assert by means of it is the case; and if by we mean ,
+
+p and what we mean is the case, then in the new conception
+
+is true and not false.
+
+P p can that, however, the signs and say the same thing is
+
+important, for it shows that the sign corresponds to nothing
+
+in reality.
+
+That negation occurs in a proposition, is no characteristic of
+
+its sense (p = p).
+P p the propositions and have opposite senses, but to
+
+them corresponds one and the same reality.
+
+4.063 an illustration to explain the concept of truth. A black spot on
+white paper; the form of the spot can be described by saying
+of each point of the plane whether it is white or black. To the
+fact that a point is black corresponds a positive fact; to the fact
+that a point is white (not black), a negative fact. If i indicate
+a point of the plane (a truth-value in frege's terminology), this
+corresponds to the assumption proposed for judgment, etc. Etc.
+
+But to be able to say that a point is black or white, i must
+rst know under what conditions a point is called white or black;
+
+p in order to be able to say is true (or false) i must have
+p determined under what conditions i call true, and thereby i
+
+determine the sense of the proposition.
+
+The point at which the simile breaks down is this: we can
+indicate a point on the paper, without knowing what white and
+black are; but to a proposition without a sense corresponds noth-
+ing at all, for it signies no thing (truth-value) whose properties
+
+43
+tractatus logico-philosophicus
+
+are called false or true; the verb of the proposition is not is
+
+true or is falseas frege thoughtbut that which is true
+
+must already contain the verb.
+
+4.064 already every proposition must have a sense; assertion cannot
+
+give it a sense, for what it asserts is the sense itself. And the
+
+same holds of denial, etc.
+
+4.0641 one could say, the denial is already related to the logical place
+
+determined by the proposition that is denied.
+
+Other the denying proposition determines a logical place
+
+than does the proposition denied.
+
+The denying proposition determines a logical place, with the
+help of the logical place of the proposition denied, by saying that
+it lies outside the latter place.
+
+That one can deny again the denied proposition, shows that
+what is denied is already a proposition and not merely the pre-
+liminary to a proposition.
+
+4.1 a proposition presents the existence and non-existence of atomic
+facts.
+
+4.11 the totality of true propositions is the total natural science (or
+the totality of the natural sciences).
+
+4.111 philosophy is not one of the natural sciences.
+(the word philosophy must mean something which stands
+
+above or below, but not beside the natural sciences. )
+
+4.112 the object of philosophy is the logical clarication of thoughts.
+Philosophy is not a theory but an activity.
+A philosophical work consists essentially of elucidations.
+The result of philosophy is not a number of philosophical
+
+propositions, but to make propositions clear.
+Philosophy should make clear and delimit sharply the
+
+thoughts which otherwise are, as it were, opaque and blurred.
+
+4.1121 psychology is no nearer related to philosophy, than is any other
+natural science.
+
+The theory of knowledge is the philosophy of psychology.
+
+Does not my study of sign-language correspond to the study
+of thought processes which philosophers held to be so essential
+
+44
+tractatus logico-philosophicus
+
+to the philosophy of logic? Only they got entangled for the most
+part in unessential psychological investigations, and there is an
+analogous danger for my method.
+
+4.1122 the darwinian theory has no more to do with philosophy than
+has any other hypothesis of natural science.
+
+4.113 philosophy limits the disputable sphere of natural science.
+
+4.114 it should limit the thinkable and thereby the unthinkable.
+It should limit the unthinkable from within through the
+
+thinkable.
+
+4.115 it will mean the unspeakable by clearly displaying the speakable.
+
+4.116 everything that can be thought at all can be thought clearly.
+Everything that can be said can be said clearly.
+
+4.12 propositions can represent the whole reality, but they cannot
+represent what they must have in common with reality in order
+to be able to represent itthe logical form.
+
+To be able to represent the logical form, we should have to
+be able to put ourselves with the propositions outside logic, that
+is outside the world.
+
+4.121 propositions cannot represent the logical form: this mirrors itself
+in the propositions.
+
+That which mirrors itself in language, language cannot rep-
+
+resent.
+
+Itself we that which expresses
+in language, cannot express
+
+by language.
+
+Show the propositions the logical form of reality.
+
+They exhibit it.
+
+4.1211 f a a thus a proposition shows that in its sense the object
+f a ga occurs, two propositions and that they are both about
+
+the same object.
+
+If two propositions contradict one another, this is shown by
+
+their structure; similarly if one follows from another, etc.
+
+4.1212 can cannot what
+be shown be said.
+
+4.1213 now we understand our feeling that we are in possession of the
+right logical conception, if only all is right in our symbolism.
+
+45
+tractatus logico-philosophicus
+
+4.122 we can speak in a certain sense of formal properties of objects
+and atomic facts, or of properties of the structure of facts, and
+in the same sense of formal relations and relations of structures.
+
+(instead of property of the structure i also say internal prop-
+erty; instead of relation of structures internal relation.
+
+I introduce these expressions in order to show the reason
+for the confusion, very widespread among philosophers, between
+internal relations and proper (external) relations. )
+
+the holding of such internal properties and relations cannot,
+however, be asserted by propositions, but it shows itself in the
+propositions, which present the atomic facts and treat of the
+objects in question.
+
+4.1221 an internal property of a fact we also call a feature of this fact.
+(in the sense in which we speak of facial features. )
+
+4.123 a property is internal if it is unthinkable that its ob ject does
+not possess it.
+
+(this blue colour and that stand in the internal relation of
+
+these brighter and darker eo ipso. It is unthinkable that two
+
+objects should not stand in this relation. )
+
+(here to the shifting use of the words property and rela-
+tion there corresponds the shifting use of the word object. )
+
+4.124 the existence of an internal property of a possible state of aairs
+is not expressed by a proposition, but it expresses itself in the
+proposition which presents that state of aairs, by an internal
+property of this proposition.
+
+It would be as senseless to ascribe a formal property to a
+proposition as to deny it the formal property.
+
+4.1241 one cannot distinguish forms from one another by saying that
+one has this property but the other that: for this assumes that
+there is a sense in asserting either property of either form.
+
+4.125 the existence of an internal relation between possible states of
+aairs expresses itself in language by an internal relation be-
+tween the propositions presenting them.
+
+4.1251 here the disputed question whether all relations are internal or
+external disappears.
+
+46
+tractatus logico-philosophicus
+
+internal 4.1252 series which are ordered by relations i call formal series.
+
+The series of numbers is ordered not by an external, but by
+
+an internal relation.
+
+Arb similarly the series of propositions ,
+
+"(x) : arx . Xrb,
+"(x, y) : arx . Ary . Yrb, etc.
+
+B a b (if stands in one of these relations to , i call a successor
+a of . )
+
+4.126 in the sense in which we speak of formal properties we can now
+speak also of formal concepts.
+
+(i introduce this expression in order to make clear the confu-
+sion of formal concepts with proper concepts which runs through
+the whole of the old logic. )
+
+that anything falls under a formal concept as an ob ject be-
+longing to it, cannot be expressed by a proposition. But it shows
+itself in the sign of this object itself. (the name shows that it
+signies an ob ject, the numerical sign that it signies a number,
+etc. )
+
+formal concepts cannot, like proper concepts, be presented
+by a function.
+
+For their characteristics, the formal properties, are not ex-
+pressed by the functions.
+
+The expression of a formal property is a feature of certain
+symbols.
+
+The sign that signies the characteristics of a formal con-
+cept is, therefore, a characteristic feature of all symbols, whose
+meanings fall under the concept.
+
+The expression of the formal concept is therefore a proposi-
+tional variable in which only this characteristic feature is con-
+stant.
+
+4.127 the propositional variable signies the formal concept, and its
+values signify the objects which fall under this concept.
+
+4.1271 every variable is the sign of a formal concept.
+For every variable presents a constant form, which all its
+
+values possess, and which can be conceived as a formal property
+of these values.
+
+47
+tractatus logico-philosophicus
+
+4.1272 x so the variable name is the proper sign of the pseudo-concept
+
+object.
+
+Wherever the word ob ject (thing, entity, etc. ) is rightly
+used, it is expressed in logical symbolism by the variable name.
+
+For example in the proposition there are two objects which
+
+. . . , by (x, y) . . . .
+
+I. E. Wherever it is used otherwise, as a proper concept word,
+
+there arise senseless pseudo-propositions.
+
+E. G. So one cannot, say there are ob jects as one says there
+
+are books. Nor there are 100 objects or there are 0 ob-
+
+number of all objects jects. And it is senseless to speak of the.
+
+The same holds of the words complex, fact, function,
+number, etc.
+
+They all signify formal concepts and are presented in logical
+symbolism by variables, not by functions or classes (as frege
+and russell thought).
+
+Expressions like 1 is a number, there is only one number
+nought, and all like them are senseless.
+
+(it is as senseless to say, there is only one 1 as it would be
+to say: 2 + 2 is at 3 o'clock equal to 4. )
+
+4.12721 the formal concept is already given with an ob ject, which falls
+
+under it. One cannot, therefore, introduce both, the objects
+
+and which fall under a formal concept the formal concept it-
+
+e. G. Self, as primitive ideas. One cannot, therefore, introduce
+
+(as russell does) the concept of function and also special func-
+
+tions as primitive ideas; or the concept of number and denite
+
+numbers.
+
+4.1273 if we want to express in logical symbolism the general propo-
+
+b a sition is a successor of we need for this an expression for
+the general term of the formal series: arb, (x) : arx . Xrb,
+(x, y) : arx . Xry . Yrb, . . . The general term of a formal series
+
+can only be expressed by a variable, for the concept symbolized
+
+formal by term of this formal series is a concept. (this frege
+
+and russell overlooked; the way in which they express general
+
+propositions like the above is, therefore, false; it contains a vi-
+
+cious circle. )
+
+we can determine the general term of the formal series by
+
+48
+tractatus logico-philosophicus
+
+giving its rst term and the general form of the operation, which
+generates the following term out of the preceding proposition.
+
+4.1274 the question about the existence of a formal concept is senseless.
+For no proposition can answer such a question.
+
+(for example, one cannot ask: are there unanalysable sub-
+
+ject-predicate propositions? )
+
+4.128 anumerical the logical forms are.
+
+Therefore there are in logic no pre-eminent numbers, and
+therefore there is no philosophical monism or dualism, etc.
+
+4.2 the sense of a proposition is its agreement and disagreement
+with the possibilities of the existence and non-existence of the
+atomic facts.
+
+4.21 the simplest proposition, the elementary proposition, asserts
+the existence of an atomic fact.
+
+4.211 it is a sign of an elementary proposition, that no elementary
+proposition can contradict it.
+
+4.22 the elementary proposition consists of names. It is a connexion,
+a concatenation, of names.
+
+4.221 it is obvious that in the analysis of propositions we must come
+to elementary propositions, which consist of names in immediate
+combination.
+
+The question arises here, how the propositional connexion
+comes to be.
+
+4.2211 even if the world is innitely complex, so that every fact consists
+of an innite number of atomic facts and every atomic fact is
+composed of an innite number of objects, even then there must
+be objects and atomic facts.
+
+4.23 the name occurs in the proposition only in the context of the
+elementary proposition.
+
+4.24 the names are the simple symbols, i indicate them by single
+
+x y z letters ( , , ).
+
+The elementary proposition i write as function of the names,
+
+in the form f x, (x, y), etc.
+P q r or i indicate it by the letters , , .
+
+49
+tractatus logico-philosophicus
+
+4.241 if i use two signs with one and the same meaning, i express this
+
+4.242 by putting between them the sign =.
+4.243
+a = b a
+4.25 means then, that the sign is replaceable by the
+4.26
+4.27 b sign .
+4.28
+4.3 b (if i introduce by an equation a new sign , by determining
+
+a that it shall replace a previously known sign , i write the
+
+a = b equationdenition(like russell) in the form def.. A
+
+denition is a symbolic rule. )
+
+a = b expressions of the form are therefore only expedients
+
+in presentation: they assert nothing about the meaning of the
+
+a b signs and .
+
+Can we understand two names without knowing whether they
+signify the same thing or two dierent things? Can we under-
+stand a proposition in which two names occur, without knowing
+if they mean the same or dierent things?
+
+If i know the meaning of an english and a synonymous ger-
+
+man word, it is impossible for me not to know that they are
+
+synonymous, it is impossible for me not to be able to translate
+
+them into one another.
+
+A = a expressions like , or expressions deduced from these
+
+are neither elementary propositions nor otherwise signicant
+
+signs. (this will be shown later. )
+
+if the elementary proposition is true, the atomic fact exists; if it
+is false the atomic fact does not exist.
+
+The specication of all true elementary propositions describes
+the world completely. The world is completely described by the
+specication of all elementary propositions plus the specication,
+which of them are true and which false.
+
+N k = with regard to the existence of atomic facts there are n
+n
+n
+possibilities.
+=0
+
+it is possible for all combinations of atomic facts to exist,
+and the others not to exist.
+
+To these combinations correspond the same number of possibili-
+
+n ties of the truthand falsehoodof elementary propositions.
+
+The truth-possibilities of the elementary propositions mean the
+
+50
+tractatus logico-philosophicus
+
+4.31 possibilities of the existence and non-existence of the atomic
+facts.
+
+The truth-possibilities can be presented by schemata of the fol-
+lowing kind (t means true, f false. The rows of t's and
+f's under the row of the elementary propositions mean their
+truth-possibilities in an easily intelligible symbolism).
+
+Pq r pq p
+
+ttt tt t
+
+ftt ft f
+
+tft tf
+
+ttf ff
+
+fft
+
+ftf
+
+tff
+
+fff
+
+4.4 a proposition is the expression of agreement and disagreement
+4.41 with the truth-possibilities of the elementary propositions.
+4.411
+the truth-possibilities of the elementary propositions are the
+4.42 conditions of the truth and falsehood of the propositions.
+4.43
+4.431 it seems probable even at rst sight that the introduction of the
+
+elementary propositions is fundamental for the comprehension of
+
+the other kinds of propositions. Indeed the comprehension of the
+
+palpably general propositions depends on that of the elementary
+
+propositions.
+
+With regard to the agreement and disagreement of a proposition
+
+n with the truth-possibilities of elementary propositions there
+
+kn kn = ln possibilities.
+
+Are
+
+=0
+
+agreement with the truth-possibilities can be expressed by co-
+ordinating with them in the schema the mark t (true).
+
+Absence of this mark means disagreement.
+
+The expression of the agreement and disagreement with the
+truth-possibilities of the elementary propositions expresses the
+truth-conditions of the proposition.
+
+51
+tractatus logico-philosophicus
+
+the proposition is the expression of its truth-conditions.
+
+(frege has therefore quite rightly put them at the beginning,
+
+as explaining the signs of his logical symbolism. Only frege's
+
+explanation of the truth-concept is false: if the true and the
+
+p false were real objects and the arguments in , etc. , then
+
+p the sense of would by no means be determined by frege's
+
+determination. )
+
+4.44 the sign which arises from the co-ordination of that mark t
+4.441 with the truth-possibilities is a propositional sign.
+4.442
+it is clear that to the complex of the signs f and t no object
+4.45 (or complex of ob jects) corresponds; any more than to horizontal
+and vertical lines or to brackets. There are no logical objects.
+
+Something analogous holds of course for all signs, which ex-
+press the same as the schemata of t and f.
+
+Thus e. G.
+
+P q
+
+ttt
+
+ftt
+
+tf
+f f t
+
+is a propositional sign.
+
+(frege's assertion sign is logically altogether meaningless;
+
+in frege (and russell) it only shows that these authors hold as
+true the propositions marked in this way.
+
+Belongs therefore to the propositions no more than does
+
+the number of the proposition. A proposition cannot possibly
+assert of itself that it is true. )
+
+if the sequence of the truth-possibilities in the schema is once
+for all determined by a rule of combination, then the last column
+is by itself an expression of the truth-conditions. If we write this
+
+p q column as a row the propositional sign becomes: (ttt)( , ),
+p q or more plainly: (ttft)( , ).
+
+(the number of places in the left-hand bracket is determined
+by the number of terms in the right-hand bracket. )
+
+n l for
+elementary propositions there are n possible groups of
+
+truth-conditions.
+
+52
+tractatus logico-philosophicus
+
+the groups of truth-conditions which belong to the truth-
+possibilities of a number of elementary propositions can be or-
+dered in a series.
+
+4.46 among the possible groups of truth-conditions there are two
+extreme cases.
+
+In the one case the proposition is true for all the truth-pos-
+
+sibilities of the elementary propositions. We say that the truth-
+
+conditions are tautological.
+
+In the second case the proposition is false for all the truth-
+
+self-contradictory possibilities. The truth-conditions are .
+
+In the rst case we call the proposition a tautology, in the
+second case a contradiction.
+
+4.461 the proposition shows what it says, the tautology and the con-
+tradiction that they say nothing.
+
+The tautology has no truth-conditions, for it is uncondition-
+ally true; and the contradiction is on no condition true.
+
+Tautology and contradiction are without sense.
+
+(like the point from which two arrows go out in opposite
+
+directions. )
+
+e. G. (i know, nothing about the weather, when i know that
+
+it rains or does not rain. )
+
+4.4611 tautology and contradiction are, however, not senseless; they
+are part of the symbolism, in the same way that 0 is part of
+the symbolism of arithmetic.
+
+4.462 tautology and contradiction are not pictures of the reality. They
+
+every present no possible state of aairs. For the one allows
+
+none possible state of aairs, the other.
+
+In the tautology the conditions of agreement with the world
+the presenting relationscancel one another, so that it stands
+in no presenting relation to reality.
+
+4.463 the truth-conditions determine the range, which is left to the
+facts by the proposition.
+
+(the proposition, the picture, the model, are in a negative
+sense like a solid body, which restricts the free movement of
+another: in a positive sense, like the space limited by solid sub-
+stance, in which a body may be placed. )
+
+53
+tractatus logico-philosophicus
+
+tautology leaves to reality the whole innite logical space;
+contradiction lls the whole logical space and leaves no point to
+reality. Neither of them, therefore, can in any way determine
+reality.
+
+4.464 the truth of tautology is certain, of propositions possible, of
+contradiction impossible. (certain, possible, impossible: here
+we have an indication of that gradation which we need in the
+theory of probability. )
+
+4.465 the logical product of a tautology and a proposition says the
+same as the proposition. Therefore that product is identical
+with the proposition. For the essence of the symbol cannot be
+altered without altering its sense.
+
+4.466 to a denite logical combination of signs corresponds a denite
+
+every arbitrary logical combination of their meanings; combina-
+
+tion only corresponds to the unconnected signs.
+
+That is, propositions which are true for every state of aairs
+
+cannot be combinations of signs at all, for otherwise there could
+
+only correspond to them denite combinations of ob jects.
+
+No (and to no logical combination corresponds combination
+
+of the objects. )
+
+tautology and contradiction are the limiting cases of the
+combinations of symbols, namely their dissolution.
+
+4.4661 of course the signs are also combined with one another in the
+
+i. E. Tautology and contradiction, they stand in relations to one
+
+another, but these relations are meaningless, unessential to the
+
+symbol.
+
+4.5 now it appears to be possible to give the most general form of
+
+i. E. Proposition; to give a description of the propositions of some
+
+one sign language, so that every possible sense can be expressed
+
+by a symbol, which falls under the description, and so that every
+
+symbol which falls under the description can express a sense, if
+
+the meanings of the names are chosen accordingly.
+
+It is clear that in the description of the most general form
+
+only of proposition what is essential to it may be described
+
+otherwise it would not be the most general form.
+
+That there is a general form is proved by the fact that there
+
+54
+tractatus logico-philosophicus
+
+cannot be a proposition whose form could not have been foreseen
+
+i. E. ( constructed). The general form of proposition is: such and
+
+such is the case.
+
+4.51 all suppose elementary propositions were given me: then we
+4.52
+4.53 can simply ask: what propositions i can build out of them. And
+5
+5.01 all so these are
+5.02 propositions and are they limited.
+
+5.1 the propositions are everything which follows from the totality
+
+of all elementary propositions (of course also from the fact that
+
+totality of them all it is the ). (so, in some sense, one could
+
+all say, that propositions are generalizations of the elementary
+
+propositions. )
+
+the general propositional form is a variable.
+
+Propositions are truth-functions of elementary propositions.
+(an elementary proposition is a truth-function of itself. )
+
+the elementary propositions are the truth-arguments of propo-
+sitions.
+
+It is natural to confuse the arguments of functions with the
+
+indices of names. For i recognize the meaning of the sign con-
+
+taining it from the argument just as much as from the index.
+
++ c in russell's c, for example, is an index which indicates
+
+that the whole sign is the addition sign for cardinal numbers.
+
+But this way of symbolizing depends on arbitrary agreement,
+
++ p and one could choose a simple sign instead of c: but in
+
+p p cannot is not an index but an argument; the sense of
+
+p be understood, unless the sense of has previously been un-
+
+derstood. (in the name julius csar, julius is an index. The
+
+index is always part of a description of the ob ject to whose name
+
+e. G. The we attach it, csar of the julian gens. )
+
+the confusion of argument and index is, if i am not mistaken,
+at the root of frege's theory of the meaning of propositions and
+functions. For frege the propositions of logic were names and
+their arguments the indices of these names.
+
+The truth-functions can be ordered in series.
+That is the foundation of the theory of probability.
+
+55
+tractatus logico-philosophicus
+
+5.101 the truth-functions of every number of elementary propositions
+can be written in a schema of the following kind:
+
+(tttt)(p, q) tautology (if p then p, and if q then q) [p p . Q q]
+
+(fttt)(p, q) in words: not both p and q. [(p . Q)]
+
+(tftt)(p, q) if q then p. [q p]
+
+(ttft)(p, q) if p then q. [p q]
+
+(tttf)(p, q) p or q. [p q]
+
+(fftt)(p, q) not q. [q]
+
+(ftft)(p, q) not p. [p]
+
+(fttf)(p, q) p or q, but not both. [p . Q : : q . P]
+
+(tfft)(p, q) if p, then q; and if q, then p. [p q]
+
+(tftf)(p, q) p
+
+(ttff)(p, q) q
+
+(ffft)(p, q) neither p nor q. [p . Q or p | q]
+
+(fftf)(p, q) p and not q. [p . Q]
+
+(ftff)(p, q) q and not p. [q . P]
+
+(tfff)(p, q) p and q. [p . Q]
+
+(ffff)(p, q) contradiction (p and not p; and q and not q. ) [p . P . Q . Q]
+
+those truth-possibilities of its truth-arguments, which verify
+
+truth-grounds the proposition, i shall call its.
+
+5.11 if the truth-grounds which are common to a number of proposi-
+tions are all also truth-grounds of some one proposition, we say
+5.12 that the truth of this proposition follows from the truth of those
+5.121 propositions.
+5.122
+p in particular the truth of a proposition follows from that of a
+q proposition , if all the truth-grounds of the second are truth-
+
+grounds of the rst.
+
+Q p p the truth-grounds of
+are contained in those of ; follows
+
+q from .
+
+P q p q if follows from , the sense of is contained in that of .
+
+5.123 if a god creates a world in which certain propositions are true, he
+creates thereby also a world in which all propositions consequent
+on them are true. And similarly he could not create a world in
+
+p which the proposition is true without creating all its objects.
+
+5.124 a proposition asserts every proposition which follows from it.
+
+5.1241 p . Q p
+is one of the propositions which assert and at the same
+
+q time one of the propositions which assert .
+
+56
+tractatus logico-philosophicus
+
+two propositions are opposed to one another if there is no
+signicant proposition which asserts them both.
+
+Every proposition which contradicts another, denies it.
+
+5.13 that the truth of one proposition follows from the truth of other
+propositions, we perceive from the structure of the propositions.
+
+5.131 if the truth of one proposition follows from the truth of others,
+this expresses itself in relations in which the forms of these prop-
+ositions stand to one another, and we do not need to put them
+in these relations rst by connecting them with one another in
+a proposition; for these relations are internal, and exist as soon
+as, and by the very fact that, the propositions exist.
+
+5.1311 p q p q when we conclude from
+and to the relation between
+
+p q p the forms of the propositions
+and is here concealed
+
+e. G. By the method of symbolizing. But if we write, instead of
+
+p q p | q . | . P | q and instead of p p | p (p | q = neither
+
+p q nor ), then the inner connexion becomes obvious.
+
+F a (x) . F x (the fact that we can infer
+from shows that gen-
+
+(x) . F x erality is present also in the symbol .
+
+5.132 p q q p p q if follows from , i can conclude from to ; infer from .
+
+The method of inference is to be understood from the two
+propositions alone.
+
+Only they themselves can justify the inference.
+
+Laws of inference, whichas in frege and russellare to
+justify the conclusions, are senseless and would be superuous.
+
+5.133 all inference takes place a priori.
+
+5.134 from an elementary proposition no other can be inferred.
+
+5.135 in no way can an inference be made from the existence of one
+state of aairs to the existence of another entirely dierent from
+it.
+
+5.136 there is no causal nexus which justies such an inference.
+5.1361
+cannot the events of the future be inferred from those of the
+
+present.
+
+Superstition is the belief in the causal nexus.
+
+5.1362 the freedom of the will consists in the fact that future actions
+
+57
+tractatus logico-philosophicus
+
+cannot be known now. We could only know them if causality
+
+inner were an necessity, like that of logical deduction. The
+
+connexion of knowledge and what is known is that of logical
+
+necessity.
+
+P p (a knows that is the case is senseless if is a tautology. )
+
+5.1363 if from the fact that a proposition is obvious to us it does not
+
+follow that it is true, then obviousness is no justication for our
+
+belief in its truth.
+
+5.14 if a proposition follows from another, then the latter says more
+5.141 than the former, the former less than the latter.
+
+P q q p if follows from and from then they are one and the same
+
+proposition.
+
+5.142 a tautology follows from all propositions: it says nothing.
+5.143
+no contradiction is something shared by propositions, which
+5.15
+5.151 proposition has in common with another. Tautology is that
+which is shared by all propositions, which have nothing in com-
+mon with one another.
+
+Contradiction vanishes so to speak outside, tautology inside
+all propositions.
+
+Contradiction is the external limit of the propositions, tau-
+tology their substanceless centre.
+
+T r if r is the number of the truth-grounds of the proposition ,
+
+t s rs the number of those truth-grounds of the proposition
+
+r which are at the same time truth-grounds of , then we call
+
+probability t : t the ratio rs
+r the measure of the which the prop-
+
+r s osition gives to the proposition .
+
+T suppose in a schema like that above in no. 5.101 r is the num-
+r t ber of the t 's in the proposition , rs the number of those
+s t 's in the proposition , which stand in the same columns as
+
+r r t 's of the proposition ; then the proposition gives to the
+
+s t : t proposition the probability rsr.
+
+5.1511 there is no special object peculiar to probability propositions.
+
+5.152 propositions which have no truth-arguments in common with
+one another we call independent.
+
+58
+tractatus logico-philosophicus
+
+e. G. Independent propositions ( any two elementary proposi-
+
+1
+tions) give to one another the probability 2 .
+
+P q q if follows from , the proposition gives to the proposition
+
+p the probability 1. The certainty of logical conclusion is a
+
+limiting case of probability.
+
+(application to tautology and contradiction. )
+
+5.153 a proposition is in itself neither probable nor improbable. An
+5.154 event occurs or does not occur, there is no middle course.
+
+5.155 in an urn there are equal numbers of white and black balls (and
+5.156
+no others). I draw one ball after another and put them back in
+
+the urn. Then i can determine by the experiment that the num-
+
+bers of the black and white balls which are drawn approximate
+
+as the drawing continues.
+
+This so is not a mathematical fact.
+
+If then, i say, it is equally probable that i should draw a
+white and a black ball, this means, all the circumstances known
+to me (including the natural laws hypothetically assumed) give
+to the occurrence of the one event no more probability than to
+the occurrence of the other. That is they giveas can easily be
+understood from the above explanationsto each the probabil-
+
+1
+ity 2 .
+
+What i can verify by the experiment is that the occurrence of
+the two events is independent of the circumstances with which
+i have no closer acquaintance.
+
+The unit of the probability proposition is: the circumstances
+with which i am not further acquaintedgive to the occurrence
+of a denite event such and such a degree of probability.
+
+Probability is a generalization.
+
+It involves a general description of a propositional form. Only
+in default of certainty do we need probability.
+
+If we are not completely acquainted with a fact, but know
+
+something about its form.
+
+(a proposition can, indeed, be an incomplete picture of a
+
+a certain state of aairs, but it is always complete picture. )
+
+the probability proposition is, as it were, an extract from
+other propositions.
+
+59
+tractatus logico-philosophicus
+
+5.2 the structures of propositions stand to one another in internal
+relations.
+
+5.21 we can bring out these internal relations in our manner of ex-
+pression, by presenting a proposition as the result of an opera-
+tion which produces it from other propositions (the bases of the
+operation).
+
+5.22 the operation is the expression of a relation between the struc-
+tures of its result and its bases.
+
+5.23 the operation is that which must happen to a proposition in
+order to make another out of it.
+
+5.231 and that will naturally depend on their formal properties, on
+the internal similarity of their forms.
+
+5.232 the internal relation which orders a series is equivalent to the
+operation by which one term arises from another.
+
+5.233 the rst place in which an operation can occur is where a prop-
+
+i. E. Osition arises from another in a logically signicant way;
+
+where the logical construction of the proposition begins.
+
+5.234 the truth-functions of elementary propositions, are results of
+operations which have the elementary propositions as bases. (i
+call these operations, truth-operations. )
+
+p p 5.2341 the sense of a truth-function of is a function of the sense of .
+
+Denial, logical addition, logical multiplication, etc. Etc. , are
+operations.
+
+(denial reverses the sense of a proposition. )
+
+5.24 an operation shows itself in a variable; it shows how we can
+proceed from one form of proposition to another.
+
+It gives expression to the dierence between the forms.
+(and that which is common to the bases, and the result of
+an operation, is the bases themselves. )
+
+5.241 the operation does not characterize a form but only the dier-
+5.242 ence between forms.
+
+Q p r the same operation which makes from , makes from
+q , and so on. This can only be expressed by the fact that
+p q r , , , etc. , are variables which give general expression to
+
+certain formal relations.
+
+60
+tractatus logico-philosophicus
+
+5.25 the occurrence of an operation does not characterize the sense
+of a proposition.
+
+For an operation does not assert anything; only its result
+does, and this depends on the bases of the operation.
+
+(operation and function must not be confused with one an-
+other. )
+
+5.251 a function cannot be its own argument, but the result of an
+operation can be its own basis.
+
+5.252 only in this way is the progress from term to term in a formal
+series possible (from type to type in the hierarchy of russell
+and whitehead). (russell and whitehead have not admitted
+the possibility of this progress but have made use of it all the
+same. )
+
+5.2521 the repeated application of an operation to its own result i call
+
+o o o a its successive application ( is the result of the threefold
+o a successive application of to ).
+
+In a similar sense i speak of the successive application of
+
+several operations to a number of propositions.
+
+,
+5.2522 a, o a, o o a . . . . The general term of the formal series i write
+
+a x o x thus: [ , , ]. This expression in brackets is a variable. The
+
+rst term of the expression is the beginning of the formal series,
+
+x the second the form of an arbitrary term of the series, and
+
+the third the form of that term of the series which immediately
+
+x follows .
+
+5.2523 the concept of the successive application of an operation is
+equivalent to the concept and so on.
+
+5.253 one operation can reverse the eect of another. Operations can
+5.254
+cancel one another.
+
+E. G. Operations can vanish ( denial in p, p = p).
+
+5.3 all propositions are results of truth-operations on the elemen-
+tary propositions.
+
+The truth-operation is the way in which a truth-function
+arises from elementary propositions.
+
+According to the nature of truth-operations, in the same way
+as out of elementary propositions arise their truth-functions,
+
+61
+tractatus logico-philosophicus
+
+from truth-functions arises a new one. Every truth-operation
+
+creates from truth-functions of elementary propositions another
+
+i. E. Truth-function of elementary propositions, a proposition.
+
+The result of every truth-operation on the results of truth-oper-
+
+one ations on elementary propositions is also the result of truth-
+
+operation on elementary propositions.
+
+Every proposition is the result of truth-operations on ele-
+mentary propositions.
+
+5.31 p q r the schemata no. 4.31 are also signicant, if , , , etc.
+5.32
+5.4 are not elementary propositions.
+5.41
+5.42 and it is easy to see that the propositional sign in no. 4.442
+
+5.43 expresses one truth-function of elementary propositions even
+
+p q when and are truth-functions of elementary propositions.
+
+All truth-functions are results of the successive application of a
+nite number of truth-operations to elementary propositions.
+
+Here it becomes clear that there are no such things as logical
+objects or logical constants (in the sense of frege and russell).
+
+For all those results of truth-operations on truth-functions are
+identical, which are one and the same truth-function of elemen-
+tary propositions.
+
+That , , etc. , are not relations in the sense of right and left,
+
+etc. , is obvious.
+
+The possibility of crosswise denition of the logical primitive
+
+signs of frege and russell shows by itself that these are not
+
+primitive signs and that they signify no relations.
+
+And it is obvious that the which we dene by means of
+and is identical with that by which we dene with
+the help of , and that this is the same as the rst, and
+
+so on.
+
+P others that from a fact an innite number of should follow,
+
+p p namely, , etc. , is indeed hardly to be believed, and
+
+it is no less wonderful that the innite number of propositions of
+
+logic (of mathematics) should follow from half a dozen primitive
+
+propositions.
+
+But all propositions of logic say the same thing. That is,
+nothing.
+
+62
+tractatus logico-philosophicus
+
+5.44 truth-functions are not material functions.
+
+5.441 e. G. If an armation can be produced by repeated denial, is
+5.442
+5.45 the denialin any sensecontained in the armation?
+5.451
+p p p does
+5.452 deny , or does it arm ; or both?
+
+P the proposition does not treat of denial as an ob ject,
+
+but the possibility of denial is already prejudged in armation.
+
+P and if there was an object called , then would
+
+p have to say something other than . For the one proposition
+
+would then treat of , the other would not.
+
+This disappearance of the apparent logical constants also occurs
+
+if (x) . F x says the same as (x) . F x, or (x) . F x . X = a
+f a the same as .
+
+If a proposition is given to us then the results of all truth-
+
+with operations which have it as their basis are given it.
+
+If there are logical primitive signs a correct logic must make clear
+
+their position relative to one another and justify their existence.
+
+Out of the construction of logic its primitive signs must become
+
+clear.
+
+If logic has primitive ideas these must be independent of one an-
+
+other. If a primitive idea is introduced it must be introduced in
+
+all contexts in which it occurs at all. One cannot therefore intro-
+
+one duce it for context and then again for another. For example,
+
+if denial is introduced, we must understand it in propositions of
+
+the form p, just as in propositions like (pq), (x). F x
+
+and others. We may not rst introduce it for one class of cases
+
+and then for another, for it would then remain doubtful whether
+
+its meaning in the two cases was the same, and there would be
+
+no reason to use the same way of symbolizing in the two cases.
+
+(in short, what frege (grundgesetze der arithmetik) has
+said about the introduction of signs by denitions holds, mutatis
+mutandis, for the introduction of primitive signs also. )
+
+the introduction of a new expedient in the symbolism of logic
+must always be an event full of consequences. No new symbol
+may be introduced in logic in brackets or in the marginwith,
+so to speak, an entirely innocent face.
+
+(thus in the principia mathematica of russell and white-
+
+63
+tractatus logico-philosophicus
+
+head there occur denitions and primitive propositions in words.
+Why suddenly words here? This would need a justication.
+There was none, and can be none for the process is actually
+not allowed. )
+
+but if the introduction of a new expedient has proved nec-
+
+essary in one place, we must immediately ask: where is this
+
+always expedient to be used? Its position in logic must be made
+
+clear.
+
+5.453 all numbers in logic must be capable of justication.
+Or rather it must become plain that there are no numbers
+
+in logic.
+There are no pre-eminent numbers.
+
+5.454 in logic there is no side by side, there can be no classication.
+In logic there cannot be a more general and a more special.
+
+5.4541 the solution of logical problems must be simple for they set the
+standard of simplicity.
+
+Men have always thought that there must be a sphere of
+questions whose answersa prioriare symmetrical and united
+into a closed regular structure.
+
+A sphere in which the proposition, simplex sigillum veri, is
+valid.
+
+5.46 when we have rightly introduced the logical signs, the sense of
+
+all their combinations has been already introduced with them:
+
+p q (p q) therefore not only
+but also , etc. Etc. We
+
+should then already have introduced the eect of all possible
+
+combinations of brackets; and it would then have become clear
+
+p q (x) . F x that the proper general primitive signs are not
+, ,
+
+etc. , but the most general form of their combinations.
+
+5.461 the apparently unimportant fact that the apparent relations
+
+like
+and need bracketsunlike real relations is of great
+
+importance.
+
+The use of brackets with these apparent primitive signs shows
+that these are not the real primitive signs; and nobody of course
+would believe that the brackets have meaning by themselves.
+
+5.4611 logical operation signs are punctuations.
+
+64
+tractatus logico-philosophicus
+
+5.47 beforehand it is clear that everything which can be said about
+
+all on one occasion the form of
+propositions at all can be said .
+
+For all logical operations are already contained in the elemen-
+
+f a (x) . F x . X = a tary proposition. For says the same as .
+
+Where there is composition, there is argument and function,
+and where these are, all logical constants already are.
+
+All one could say: the one logical constant is that which
+
+propositions, according to their nature, have in common with
+one another.
+
+That however is the general form of proposition.
+
+5.471 the general form of proposition is the essence of proposition.
+
+5.4711 to give the essence of proposition means to give the essence of
+all description, therefore the essence of the world.
+
+5.472 the description of the most general propositional form is the
+description of the one and only general primitive sign in logic.
+
+5.473 logic must take care of itself.
+
+Possible a sign must also be able to signify. Everything
+
+which is possible in logic is also permitted. (socrates is identi-
+
+cal means nothing because there is no property which is called
+
+identical. The proposition is senseless because we have not
+
+made some arbitrary determination, not because the symbol is
+
+in itself unpermissible. )
+
+in a certain sense we cannot make mistakes in logic.
+
+5.4731 self-evidence, of which russell has said so much, can only be
+
+discarded in logic by language itself preventing every logical mis-
+
+cannot take. That logic is a priori consists in the fact that we
+
+think illogically.
+
+5.4732 we cannot give a sign the wrong sense.
+
+5.47321 occam's razor is, of course, not an arbitrary rule nor one justied
+
+unnecessary by its practical success. It simply says that elements
+
+in a symbolism mean nothing.
+
+One signs which serve purpose are logically equivalent, signs
+
+no which serve purpose are logically meaningless.
+
+5.4733 frege says: every legitimately constructed proposition must
+have a sense; and i say: every possible proposition is legit-
+
+65
+tractatus logico-philosophicus
+
+imately constructed, and if it has no sense this can only be
+
+meaning because we have given no to some of its constituent
+
+parts.
+
+(even if we believe that we have done so. )
+
+thus socrates is identical says nothing, because we have
+
+no adjective given
+meaning to the word identical as . For when
+
+it occurs as the sign of equality it symbolizes in an entirely dif-
+
+ferent waythe symbolizing relation is anothertherefore the
+
+symbol is in the two cases entirely dierent; the two symbols
+
+have the sign in common with one another only by accident.
+
+5.474 only the number of necessary fundamental operations depends
+5.475
+5.476 on our notation.
+5.5
+it is only a question of constructing a system of signs of a denite
+5.501
+number of dimensionsof a denite mathematical multiplicity.
+
+Number of it is clear that we are not concerned here with a
+primitive ideas which must be signied but with the expression
+
+of a rule.
+
+Every truth-function is a result of the successive application of
+
+, . . . . The operation ( t)() to elementary propositions.
+
+This operation denies all the propositions in the right-hand
+bracket and i call it the negation of these propositions.
+
+An expression in brackets whose terms are propositions i indi-
+cateif the order of the terms in the bracket is indierentby
+
+a sign of the form ( ). Is a variable whose values are the
+
+terms of the expression in brackets, and the line over the variable
+indicates that it stands for all its values in the bracket.
+
+(thus if has the 3 values p, q, r, then ( ) = (p, q, r). )
+
+the values of the variables must be determined.
+
+The determination is the description of the propositions
+which the variable stands for.
+
+How the description of the terms of the expression in brackets
+takes place is unessential.
+
+We may distinguish 3 kinds of description: 1. Direct enu-
+
+meration. In this case we can place simply its constant values
+
+f x instead of the variable. 2. Giving a function, whose values for
+
+x all values of are the propositions to be described. 3. Giving
+
+66
+tractatus logico-philosophicus
+
+a formal law, according to which those propositions are con-
+structed. In this case the terms of the expression in brackets are
+all the terms of a formal series.
+
+5.502 , . . . . N () therefore i write instead of ( t)(
+5.503 ), .
+5.51
+5.511 n () is the negation of all the values of the propositional
+5.512 variable .
+
+5.513 as it is obviously easy to express how propositions can be con-
+structed by means of this operation and how propositions are
+5.514 not to be constructed by means of it, this must be capable of
+exact expression.
+
+N () = p p if has only one value, then
+(not ), if it has two
+
+values then n () = p . Q (neither p nor q).
+
+How can the all-embracing logic which mirrors the world use
+such special catches and manipulations? Only because all these
+are connected into an innitely ne network, to the great mirror.
+
+P p is true if is false. Therefore in the true proposition
+p p is a false proposition. How then can the stroke
+
+bring it into agreement with reality?
+
+P that which denies in is however not , but that which
+p all signs of this notation, which deny , have in common.
+
+P p hence the common rule according to which , ,
+
+p p p . P
+, , etc. Etc. (to innity) are constructed. And
+
+this which is common to them all mirrors denial.
+
+We could say: what is common to all symbols, which assert
+
+p q p . Q both and , is the proposition . What is common to all
+
+p q p q symbols, which assert either or , is the proposition .
+
+And similarly we can say: two propositions are opposed
+
+to one another when they have nothing in common with one
+
+another; and every proposition has only one negative, because
+
+there is only one proposition which lies altogether outside it.
+
+Q : p p thus even in russell's notation it is evident that
+
+q p p says the same as ; that says nothing.
+
+If a notation is xed, there is in it a rule according to which
+
+p all the propositions denying are constructed, a rule according
+p to which all the propositions asserting are constructed, a rule
+
+67
+tractatus logico-philosophicus
+
+p q according to which all the propositions asserting or are con-
+
+structed, and so on. These rules are equivalent to the symbols
+and in them their sense is mirrored.
+
+5.515 it must be recognized in our symbols that what is connected by
+
+. , , etc. , must be propositions.
+
+P q and this is the case, for the symbols and presuppose
+
+p p q , , etc. If the sign in does not stand for a
+
+complex sign, then by itself it cannot have sense; but then also
+
+p p p . P p the signs
+, , etc. Which have the same sense as
+
+p p p q have no sense. If, however,
+has no sense, then also
+
+can have no sense.
+
+5.5151 must the sign of the negative proposition be constructed by
+
+means of the sign of the positive? Why should one not be able
+
+to express the negative proposition by means of a negative fact?
+
+A b (like: if does not stand in a certain relation to , it could
+
+arb express that is not the case. )
+
+but here also the negative proposition is indirectly con-
+
+structed with the positive.
+
+Proposition the positive must presuppose the existence of
+
+proposition the negative and conversely.
+
+5.52 f x if the values of are the total values of a function for all
+5.521
+values of x, then n () = (x) . F x.
+
+All i separate the concept from the truth-function.
+
+Frege and russell have introduced generality in connexion
+
+with the logical product or the logical sum. Then it would be
+
+(x) . F x (x) . F x dicult to understand the propositions
+and
+
+in which both ideas lie concealed.
+
+5.522 that which is peculiar to the symbolism of generality is rstly,
+that it refers to a logical prototype, and secondly, that it makes
+constants prominent.
+
+5.523 the generality symbol occurs as an argument.
+5.524
+all if the objects are given, therewith are objects also given.
+5.525
+all if the elementary propositions are given, then therewith
+
+elementary propositions are also given.
+
+(x) . F x it is not correct to render the proposition as russell
+
+possible f x doesin words is .
+
+68
+tractatus logico-philosophicus
+
+certainty, possibility or impossibility of a state of aairs are
+not expressed by a proposition but by the fact that an expression
+is a tautology, a signicant proposition or a contradiction.
+
+That precedent to which one would always appeal, must be
+present in the symbol itself.
+
+5.526 one can describe the world completely by completely general-
+
+i. E. Ized propositions, without from the outset co-ordinating any
+
+name with a denite ob ject.
+
+In order then to arrive at the customary way of expression
+
+we need simply say after an expression there is one and only
+
+x . . . . X a one , which
+: and this is .
+
+5.5261 a completely generalized proposition is like every other proposi-
+
+(x, ) . X tion composite. (this is shown by the fact that in
+
+x we must mention and separately. Both stand indepen-
+
+dently in signifying relations to the world as in the ungeneralized
+
+proposition. )
+
+a characteristic of a composite symbol: it has something in
+
+other common with symbols.
+
+5.5262 every the truth or falsehood of proposition alters something
+
+in the general structure of the world. And the range which is
+
+allowed to its structure by the totality of elementary proposi-
+
+tions is exactly that which the completely general propositions
+
+delimit.
+
+(if an elementary proposition is true, then, at any rate, there
+
+more is one elementary proposition true. )
+
+5.53 identity of the ob ject i express by identity of the sign and not by
+means of a sign of identity. Dierence of the ob jects by dierence
+of the signs.
+
+5.5301 that identity is not a relation between objects is obvious. This
+
+becomes very clear if, for example, one considers the proposition
+
+(x) : f x. . X = a . What this proposition says is simply that
+
+only a f satises the function , and not that only such things
+
+f a satisfy the function which have a certain relation to .
+
+Only a one could of course say that in fact has this relation
+
+a to , but in order to express this we should need the sign of
+
+identity itself.
+
+69
+tractatus logico-philosophicus
+
+5.5302 russell's denition of = won't do; because according to it one
+5.5303
+cannot say that two objects have all their properties in com-
+
+mon. (even if this proposition is never true, it is nevertheless
+
+signicant. )
+
+two roughly speaking: to say of things that they are identical is
+
+one nonsense, and to say of thing that it is identical with itself
+
+is to say nothing.
+
+5.531 i write therefore not f (a, b) . A = b, but f (a, a) (or f (b, b)).
+And not f (a, b) . A = b, but f (a, b).
+
+5.532 and analogously: not (x, y). F (x, y). X = y, but (x). F (x, x);
+5.5321 and not (x, y) . F (x, y) . X = y, but (x, y) . F (x, y).
+
+(therefore instead of russell's (x, y) . F (x, y): (x, y) .
+F (x, y) . . (x) . F (x, x). )
+
+e. G. Instead of (x) : f x x = a we therefore write (x). F x.
+
+. F a : (x, y) . F x . F y.
+
+Only and the proposition one x satises f () reads: (x) .
+
+F x : (x, y) . F x . F y.
+
+5.533 the identity sign is therefore not an essential constituent of log-
+5.534 ical notation.
+
+A = a a = b . B = and we see that apparent propositions like:
+,
+
+c. A = c, (x) . X = x, (x) . X = a, etc. Cannot be written
+
+in a correct logical notation at all.
+
+5.535 so all problems disappear which are connected with such pseu-
+do-propositions.
+
+This is the place to solve all the problems which arise through
+russell's axiom of innity.
+
+What the axiom of innity is meant to say would be ex-
+pressed in language by the fact that there is an innite number
+of names with dierent meanings.
+
+5.5351 there are certain cases in which one is tempted to use expres-
+
+a = a p p sions of the form
+or and of that kind. And
+
+indeed this takes place when one would like to speak of the
+
+principles archetype proposition, thing, etc. So russell in the
+of mathematics p has rendered the nonsense is a proposition in
+
+p p symbols by and has put it as hypothesis before certain
+
+70
+tractatus logico-philosophicus
+
+propositions to show that their places for arguments could only
+
+be occupied by propositions.
+
+P p (it is nonsense to place the hypothesis before a propo-
+
+sition in order to ensure that its arguments have the right form,
+
+because the hypothesis for a non-proposition as argument be-
+
+comes not false but meaningless, and because the proposition
+
+itself becomes senseless for arguments of the wrong kind, and
+
+therefore it survives the wrong arguments no better and no worse
+
+than the senseless hypothesis attached for this purpose. )
+
+5.5352 similarly it was proposed to express there are no things by
+
+(x) . X = x . But even if this were a propositionwould it
+
+not be true if indeed there were things, but these were not
+
+identical with themselves?
+
+5.54 in the general propositional form, propositions occur in a prop-
+osition only as bases of the truth-operations.
+
+5.541 at rst sight it appears as if there were also a dierent way in
+5.542 which one proposition could occur in another.
+
+Especially in certain propositional forms of psychology, like
+
+p p a thinks, that is the case, or a thinks , etc.
+P here it appears supercially as if the proposition stood to
+
+the ob ject a in a kind of relation.
+
+(and in modern epistemology (russell, moore, etc. ) those
+propositions have been conceived in this way. )
+
+p p p but it is clear that a believes that , a thinks , a says ,
+p p are of the form ` ' says : and here we have no co-ordination
+
+of a fact and an object, but a co-ordination of facts by means of
+a co-ordination of their ob jects.
+
+5.5421 this shows that there is no such thing as the soulthe subject,
+etc. As it is conceived in contemporary supercial psychology.
+
+A composite soul would not be a soul any longer.
+
+5.5422 the correct explanation of the form of the proposition a judges
+
+p must show that it is impossible to judge a nonsense. (russell's
+
+theory does not satisfy this condition. )
+
+5.5423 to perceive a complex means to perceive that its constituents
+are combined in such and such a way.
+
+71
+tractatus logico-philosophicus
+this perhaps explains that the gure
+
+can be seen in two ways as a cube; and all similar phenomena.
+
+For we really see two dierent facts.
+
+A b (if i x my eyes rst on the corners and only glance at ,
+a b appears in front and behind, and vice versa. )
+
+5.55 we must now answer a priori the question as to all possible forms
+of the elementary propositions.
+
+The elementary proposition consists of names. Since we can-
+not give the number of names with dierent meanings, we cannot
+give the composition of the elementary proposition.
+
+5.551 our fundamental principle is that every question which can be
+decided at all by logic can be decided without further trouble.
+
+(and if we get into a situation where we need to answer such
+a problem by looking at the world, this shows that we are on a
+fundamentally wrong track. )
+
+5.552 the experience which we need to understand logic is not that
+
+is no such and such is the case, but that something ; but that is
+
+experience.
+
+Precedes so logic
+every experiencethat something is .
+
+It is before the how, not before the what.
+
+5.5521 and if this were not the case, how could we apply logic? We
+could say: if there were a logic, even if there were no world, how
+then could there be a logic, since there is a world?
+
+5.553 russell said that there were simple relations between dierent
+numbers of things (individuals). But between what numbers?
+And how should this be decidedby experience?
+
+(there is no pre-eminent number. )
+
+72
+tractatus logico-philosophicus
+
+5.554 the enumeration of any special forms would be entirely arbi-
+trary.
+
+5.5541 it should be possible to decide a priori whether, for example, i
+can get into a situation in which i need to symbolize with a sign
+of a 27-termed relation.
+
+5.5542 may we then ask this at all? Can we set out a sign form and
+
+not know whether anything can correspond to it?
+
+Be has the question sense: what must in order that some-
+
+thing can be the case?
+
+5.555 it is clear that we have a concept of the elementary proposition
+apart from its special logical form.
+
+Where, however, we can build symbols according to a system,
+there this system is the logically important thing and not the
+single symbols.
+
+And how would it be possible that i should have to deal with
+forms in logic which i can invent: but i must have to deal with
+that which makes it possible for me to invent them.
+
+5.556 there cannot be a hierarchy of the forms of the elementary prop-
+ositions. Only that which we ourselves construct can we foresee.
+
+5.5561 empirical reality is limited by the totality of objects. The
+boundary appears again in the totality of elementary propo-
+sitions.
+
+The hierarchies are and must be independent of reality.
+
+5.5562 if we know on purely logical grounds, that there must be ele-
+mentary propositions, then this must be known by everyone who
+understands the propositions in their unanalysed form.
+
+5.5563 all propositions of our colloquial language are actually, just as
+they are, logically completely in order. That most simple thing
+which we ought to give here is not a simile of truth but the
+complete truth itself.
+
+(our problems are not abstract but perhaps the most con-
+
+crete that there are. )
+
+5.557 application the of logic decides what elementary propositions
+
+there are.
+
+What lies in the application logic cannot anticipate.
+
+73
+tractatus logico-philosophicus
+
+it is clear that logic may not collide with its application.
+But logic must have contact with its application.
+Therefore logic and its application may not overlap one an-
+other.
+
+5.5571 if i cannot give elementary propositions a priori then it must
+5.6 lead to obvious nonsense to try to give them.
+
+The limits of my language mean the limits of my world.
+
+5.61 logic lls the world: the limits of the world are also its limits.
+
+We cannot therefore say in logic: this and this there is in
+the world, that there is not.
+
+For that would apparently presuppose that we exclude cer-
+tain possibilities, and this cannot be the case since otherwise
+logic must get outside the limits of the world: that is, if it could
+consider these limits from the other side also.
+
+What we cannot think, that we cannot think: we cannot
+
+say therefore what we cannot think.
+
+5.62 this remark provides a key to the question, to what extent solip-
+
+sism is a truth.
+
+Means in fact what solipsism , is quite correct, only it cannot
+
+said be, but it shows itself.
+
+My that the world is world, shows itself in the fact that the
+
+limits of the language (the language which only i understand)
+
+my mean the limits of world.
+
+5.621 the world and life are one.
+
+5.63 i am my world. (the microcosm. )
+
+5.631 the thinking, presenting sub ject; there is no such thing.
+
+If i wrote a book the world as i found it, i should also have
+
+therein to report on my body and say which members obey my
+
+will and which do not, etc. This then would be a method of
+
+isolating the subject or rather of showing that in an important
+
+sense there is no sub ject: that is to say, of it alone in this book
+
+not mention could be made.
+
+5.632 the sub ject does not belong to the world but it is a limit of the
+world.
+
+74
+tractatus logico-philosophicus
+
+5.633 where in the world is a metaphysical subject to be noted?
+
+You say that this case is altogether like that of the eye and
+
+not the eld of sight. But you do really see the eye.
+
+In the eld of sight and from nothing can it be concluded
+
+that it is seen from an eye.
+
+5.6331 for the eld of sight has not a form like this:
+
+5.634 this is connected with the fact that no part of our experience is
+also a priori.
+5.64
+5.641 everything we see could also be otherwise.
+Everything we can describe at all could also be otherwise.
+6 there is no order of things a priori.
+6.001
+6.002 here we see that solipsism strictly carried out coincides with
+pure realism. The i in solipsism shrinks to an extensionless
+point and there remains the reality co-ordinated with it.
+
+There is therefore really a sense in which in philosophy we can
+talk of a non-psychological i.
+
+The i occurs in philosophy through the fact that the world
+is my world.
+
+The philosophical i is not the man, not the human body or
+the human soul of which psychology treats, but the metaphysical
+subject, the limitnot a part of the world.
+
+[p, , n ()] the general form of truth-function is:.
+
+This is the general form of proposition.
+
+This says nothing else than that every proposition is the result of
+
+n () successive applications of the operation to the elementary
+
+propositions.
+
+If we are given the general form of the way in which a proposition
+is constructed, then thereby we are also given the general form of
+the way in which by an operation out of one proposition another
+can be created.
+
+75
+tractatus logico-philosophicus
+
+6.01 () the general form of the operation is therefore: [, n ()]()
+6.02
+(= [, , n ()]).
+
+This is the most general form of transition from one propo-
+sition to another.
+
+And thus we come to numbers: i dene
+
+x = 0x def. And
+x = +1x def.
+
+According, then, to these symbolic rules we write the series
+
+x, x, x, x . . . . .
+
+As: 0x, 0+1x, 0+1+1x, 0+1+1+1x . . . . .
+
+,
+[x, , ] therefore i write in place of
+
+"[0x, x, +1x].
+
+And i dene:
+
+0 + 1 = 1 def.
+0 + 1 + 1 = 2 def.
+0 + 1 + 1 + 1 = 3 def.
+
+And so on.
+
+6.021 a number is the exponent of an operation.
+6.022
+the concept number is nothing else than that which is common
+6.03 to all numbers, the general form of number.
+6.031
+6.1 the concept number is the variable number.
+
+And the concept of equality of numbers is the general form
+of all special equalities of numbers.
+
+[0, , + 1] the general form of the cardinal number is: .
+
+The theory of classes is altogether superuous in mathematics.
+
+This is connected with the fact that the generality which we
+
+accidental need in mathematics is not the one.
+
+The propositions of logic are tautologies.
+
+76
+tractatus logico-philosophicus
+
+6.11 the propositions of logic therefore say nothing. (they are the
+analytical propositions. )
+
+6.111 theories which make a proposition of logic appear substantial
+
+e. G. Are always false. One could believe that the words true
+
+and false signify two properties among other properties, and
+
+then it would appear as a remarkable fact that every proposi-
+
+tion possesses one of these properties. This now by no means
+
+appears self-evident, no more so than the proposition all roses
+
+are either yellow or red would sound even if it were true. Indeed
+
+our proposition now gets quite the character of a proposition of
+
+natural science and this is a certain symptom of its being falsely
+
+understood.
+
+6.112 the correct explanation of logical propositions must give them
+a peculiar position among all propositions.
+
+6.113 it is the characteristic mark of logical propositions that one can
+6.12
+perceive in the symbol alone that they are true; and this fact
+
+contains in itself the whole philosophy of logic. And so also it is
+
+one of the most important facts that the truth or falsehood of
+
+not non-logical propositions can be recognized from the propo-
+
+sitions alone.
+
+Shows the fact that the propositions of logic are tautologies the
+
+formallogicalproperties of language, of the world.
+
+In this way that its constituent parts connected together
+
+give a tautology characterizes the logic of its constituent parts.
+
+In order that propositions connected together in a denite
+
+way may give a tautology they must have denite properties of
+
+so structure. That they give a tautology when connected shows
+
+therefore that they possess these properties of structure.
+
+6.1201 e. G. P p (p . That
+the propositions and in the connexion
+
+p) give a tautology shows that they contradict one another.
+
+P q p q that the propositions
+, and connected together
+
+in the form (p q) . (p) : : (q) give a tautology shows that q
+
+follows from p and p q. That (x) . F x : : f a is a tautology
+
+f a (x) . F x shows that
+follows from , etc. Etc.
+
+6.1202 it is clear that we could have used for this purpose contradictions
+instead of tautologies.
+
+77
+tractatus logico-philosophicus
+
+6.1203 in order to recognize a tautology as such, we can, in cases in
+
+which no sign of generality occurs in the tautology, make use
+
+p q of the following intuitive method: i write instead of , ,
+
+r t pf t qf t rf , etc. ,
+, , , etc. The truth-combinations i
+
+e. G. Express by brackets, :
+
+and the co-ordination of the truth or falsity of the whole prop-
+osition with the truth-combinations of the truth-arguments by
+lines in the following way:
+
+this sign, for example, would therefore present the proposi-
+
+p q tion . Now i will proceed to inquire whether such a prop-
+
+(p . P) osition as (the law of contradiction) is a tautology.
+
+The form is written in our notation
+
+. The form thus:
+
+78
+tractatus logico-philosophicus
+
+(p . Q) hence the proposition runs thus:
+
+p q if here we put instead of and examine the combination
+
+of the outermost t and f with the innermost, it is seen that
+
+all the truth of the whole proposition is co-ordinated with the
+
+truth-combinations of its argument, its falsity with none of the
+
+truth-combinations.
+
+6.121 the propositions of logic demonstrate the logical properties of
+propositions, by combining them into propositions which say
+nothing.
+
+This method could be called a zero-method. In a logical
+proposition propositions are brought into equilibrium with one
+another, and the state of equilibrium then shows how these prop-
+ositions must be logically constructed.
+
+6.122 whence it follows that we can get on without logical proposi-
+tions, for we can recognize in an adequate notation the formal
+properties of the propositions by mere inspection.
+
+6.1221 p q if for example two propositions and give a tautology in
+
+p q q p the connexion
+, then it is clear that follows from .
+
+E. G. Q p q . P that follows from we see from these two
+
+propositions themselves, but we can also show it by combining
+
+p q. P : : q them to and then showing that this is a tautology.
+
+6.1222 this throws light on the question why logical propositions can
+no more be empirically established than they can be empirically
+refuted. Not only must a proposition of logic be incapable of
+being contradicted by any possible experience, but it must also
+be incapable of being established by any such.
+
+6.1223 it now becomes clear why we often feel as though logical truths
+
+79
+tractatus logico-philosophicus
+
+postulated must be by us. We can in fact postulate them in so
+
+far as we can postulate an adequate notation.
+
+6.1224 it also becomes clear why logic has been called the theory of
+forms and of inference.
+
+6.123 it is clear that the laws of logic cannot themselves obey further
+logical laws.
+
+(there is not, as russell supposed, for every type a special
+law of contradiction; but one is sucient, since it is not applied
+to itself. )
+
+6.1231 the mark of logical propositions is not their general validity.
+To be general is only to be accidentally valid for all things.
+
+An ungeneralized proposition can be tautologous just as well as
+a generalized one.
+
+6.1232 logical general validity, we could call essential as opposed to
+
+e. G. Accidental general validity, of the proposition all men are
+
+mortal. Propositions like russell's axiom of reducibility are
+
+not logical propositions, and this explains our feeling that, if
+
+true, they can only be true by a happy chance.
+
+6.1233 we can imagine a world in which the axiom of reducibility is
+not valid. But it is clear that logic has nothing to do with the
+question whether our world is really of this kind or not.
+
+6.124 the logical propositions describe the scaolding of the world,
+
+or rather they present it. They treat of nothing. They pre-
+
+suppose that names have meaning, and that elementary propo-
+
+sitions have sense. And this is their connexion with the world.
+
+It is clear that it must show something about the world that
+
+certain combinations of symbolswhich essentially have a def-
+
+inite characterare tautologies. Herein lies the decisive point.
+
+We said that in the symbols which we use much is arbitrary,
+
+much not. In logic only this expresses: but this means that in
+
+we logic it is not who express, by means of signs, what we want,
+
+but in logic the nature of the essentially necessary signs itself
+
+asserts. That is to say, if we know the logical syntax of any sign
+
+language, then all the propositions of logic are already given.
+
+6.125 it is possible, even in the old logic, to give at the outset a de-
+scription of all true logical propositions.
+
+80
+tractatus logico-philosophicus
+
+never 6.1251 hence there can be surprises in logic.
+
+6.126 whether a proposition belongs to logic can be determined by
+
+symbol determining the logical properties of the .
+
+And this we do when we prove a logical proposition. For
+
+without troubling ourselves about a sense and a meaning, we
+
+symbolic form the logical propositions out of others by mere
+rules.
+
+We prove a logical proposition by creating it out of other
+
+logical propositions by applying in succession certain operations,
+
+which again generate tautologies out of the rst. (and from a
+
+follow tautology only tautologies. )
+
+naturally this way of showing that its propositions are tau-
+tologies is quite unessential to logic. Because the propositions,
+from which the proof starts, must show without proof that they
+are tautologies.
+
+6.1261 in logic process and result are equivalent. (therefore no sur-
+prises. )
+
+6.1262 proof in logic is only a mechanical expedient to facilitate the
+recognition of tautology, where it is complicated.
+
+6.1263 it would be too remarkable, if one could prove a signicant prop-
+
+logically also osition
+from another, and a logical proposition . It
+
+is clear from the beginning that the logical proof of a signicant
+
+in proposition and the proof logic must be two quite dierent
+
+things.
+
+6.1264 the signicant proposition asserts something, and its proof
+shows that it is so; in logic every proposition is the form of a
+proof.
+
+Every proposition of logic is a modus ponens presented in
+signs. (and the modus ponens can not be expressed by a prop-
+osition. )
+
+6.1265 logic can always be conceived to be such that every proposition
+is its own proof.
+
+6.127 all propositions of logic are of equal rank; there are not some
+which are essentially primitive and others deduced from these.
+
+Every tautology itself shows that it is a tautology.
+
+81
+tractatus logico-philosophicus
+
+6.1271 it is clear that the number of primitive propositions of logic
+is arbitrary, for we could deduce logic from one primitive prop-
+osition by simply forming, for example, the logical product of
+frege's primitive propositions. (frege would perhaps say that
+this would no longer be immediately self-evident. But it is re-
+markable that so exact a thinker as frege should have appealed
+to the degree of self-evidence as the criterion of a logical propo-
+sition. )
+
+6.13 logic is not a theory but a reexion of the world.
+Logic is transcendental.
+
+6.2 mathematics is a logical method.
+The propositions of mathematics are equations, and there-
+
+fore pseudo-propositions.
+
+6.21 mathematical propositions express no thoughts.
+
+6.211 in life it is never a mathematical proposition which we need,
+
+only but we use mathematical propositions in order to infer
+
+from propositions which do not belong to mathematics to others
+
+which equally do not belong to mathematics.
+
+(in philosophy the question why do we really use that word,
+that proposition? Constantly leads to valuable results. )
+
+6.22 the logic of the world which the propositions of logic show in
+tautologies, mathematics shows in equations.
+
+6.23 if two expressions are connected by the sign of equality, this
+means that they can be substituted for one another. But
+whether this is the case must show itself in the two expressions
+themselves.
+
+It characterizes the logical form of two expressions, that they
+can be substituted for one another.
+
+6.231 it is a property of armation that it can be conceived as double
+
+denial.
+
+1 + 1 + 1 + 1 it is a property of that it can be conceived as
+
+(1 + 1) + (1 + 1).
+
+6.232 frege says that these expressions have the same meaning but
+dierent senses.
+
+But what is essential about equation is that it is not neces-
+
+82
+tractatus logico-philosophicus
+
+sary in order to show that both expressions, which are connected
+by the sign of equality, have the same meaning: for this can be
+perceived from the two expressions themselves.
+
+6.2321 and, that the propositions of mathematics can be proved means
+6.2322 nothing else than that their correctness can be seen without our
+having to compare what they express with the facts as regards
+correctness.
+
+As- the identity of the meaning of two expressions cannot be
+serted. For in order to be able to assert anything about their
+
+meaning, i must know their meaning, and if i know their mean-
+ing, i know whether they mean the same or something dierent.
+
+6.2323 the equation characterizes only the standpoint from which i
+consider the two expressions, that is to say the standpoint of
+their equality of meaning.
+
+6.233 to the question whether we need intuition for the solution of
+mathematical problems it must be answered that language itself
+here supplies the necessary intuition.
+
+6.2331 the process of calculation brings about just this intuition.
+Calculation is not an experiment.
+
+6.234 mathematics is a method of logic.
+
+6.2341 the essential of mathematical method is working with equa-
+tions. On this method depends the fact that every proposition
+of mathematics must be self-intelligible.
+
+6.24 the method by which mathematics arrives at its equations is
+6.241 the method of substitution.
+6.3
+for equations express the substitutability of two expressions,
+and we proceed from a number of equations to new equations,
+replacing expressions by others in accordance with the equations.
+
+2  2 = 4 thus the proof of the proposition runs:
+
+( )x = x def.
+22x = (2)2x = (2)1+1x = 22x = 1+11+1x
+
+= ()()x = x = 1+1+1+1x = 4x.
+
+All regularity logical research means the investigation of . And
+
+outside logic all is accident.
+
+83
+tractatus logico-philosophicus
+
+6.31 the so-called law of induction cannot in any case be a logical
+6.32 law, for it is obviously a signicant proposition. And therefore
+it cannot be a law a priori either.
+
+The law of causality is not a law but the form of a law. *
+
+6.321 law of causality is a class name. And as in mechanics there
+6.3211
+6.33 are, for instance, minimum-laws, such as that of least action, so
+
+in physics there are causal laws, laws of the causality form.
+
+A men had indeed an idea that there must be law of least ac-
+
+tion, before they knew exactly how it ran. (here, as always,
+
+the a priori certain proves to be something purely logical. )
+
+believe know we do not
+a priori in a law of conservation, but we
+
+a priori the possibility of a logical form.
+
+6.34 all propositions, such as the law of causation, the law of continu-
+ity in nature, the law of least expenditure in nature, etc. Etc. , all
+these are a priori intuitions of possible forms of the propositions
+of science.
+
+6.341 newtonian mechanics, for example, brings the description of the
+universe to a unied form. Let us imagine a white surface with
+irregular black spots. We now say: whatever kind of picture
+these make i can always get as near as i like to its description,
+if i cover the surface with a suciently ne square network and
+now say of every square that it is white or black. In this way
+i shall have brought the description of the surface to a unied
+form. This form is arbitrary, because i could have applied with
+equal success a net with a triangular or hexagonal mesh. It can
+happen that the description would have been simpler with the
+aid of a triangular mesh; that is to say we might have described
+the surface more accurately with a triangular, and coarser, than
+with the ner square mesh, or vice versa, and so on. To the
+dierent networks correspond dierent systems of describing the
+world. Mechanics determine a form of description by saying: all
+propositions in the description of the world must be obtained in a
+given way from a number of given propositionsthe mechanical
+axioms. It thus provides the bricks for building the edice of
+science, and says: whatever building thou wouldst erect, thou
+
+*i. E. Not the form of one particular law, but of any law of a certain sort (b. R. ).
+
+84
+tractatus logico-philosophicus
+
+shalt construct it in some manner with these bricks and these
+alone.
+
+(as with the system of numbers one must be able to write
+down any arbitrary number, so with the system of mechanics one
+must be able to write down any arbitrary physical proposition. )
+
+6.342 and now we see the relative position of logic and mechanics.
+
+(we could construct the network out of gures of dierent kinds,
+
+as out of triangles and hexagons together. ) that a picture like
+
+that instanced above can be described by a network of a given
+
+nothing form asserts about the picture. (for this holds of every
+
+this picture of this kind. ) but does characterize the picture, the
+
+completely fact, namely, that it can be described by a denite
+
+denite net of neness.
+
+So too the fact that it can be described by newtonian me-
+
+this chanics asserts nothing about the world; but asserts some-
+
+thing, namely, that it can be described in that particular way in
+
+which it is described, as is indeed the case. The fact, too, that it
+
+can be described more simply by one system of mechanics than
+
+by another says something about the world.
+
+6.343 mechanics is an attempt to construct according to a single plan
+
+true all propositions which we need for the description of the
+
+world.
+
+6.3431 through the whole apparatus of logic the physical laws still
+speak of the ob jects of the world.
+
+6.3432 we must not forget that the description of the world by me-
+
+chanics is always quite general. There is, for example, never any
+
+particular mention of material points in it, but always only of
+
+some points or other.
+
+6.35 although the spots in our picture are geometrical gures, ge-
+
+ometry can obviously say nothing about their actual form and
+
+purely position. But the network is geometrical, and all its prop-
+
+erties can be given a priori.
+
+Laws, like the law of causation, etc. , treat of the network and
+not of what the network described.
+
+6.36 if there were a law of causality, it might run: there are natural
+laws.
+
+85
+tractatus logico-philosophicus
+
+but that can clearly not be said: it shows itself.
+
+6.361 uniform in the terminology of hertz we might say: only con-
+
+nexions are thinkable.
+
+6.3611 we cannot compare any process with the passage of time
+there is no such thingbut only with another process (say, with
+the movement of the chronometer).
+
+Hence the description of the temporal sequence of events is
+only possible if we support ourselves on another process.
+
+It is exactly analogous for space. When, for example, we say
+
+that neither of two events (which mutually exclude one another)
+
+no cause can occur, because there is why the one should occur
+
+rather than the other, it is really a matter of our being unable
+
+one to describe of the two events unless there is some sort of
+
+is asymmetry. And if there such an asymmetry, we can regard
+
+cause this as the of the occurrence of the one and of the non-
+
+occurrence of the other.
+
+6.36111 the kantian problem of the right and left hand which cannot
+be made to cover one another already exists in the plane, and
+even in one-dimensional space; where the two congruent gures
+
+a b and cannot be made to cover one another without moving
+
+them out of this space. The right and left hand are in fact
+completely congruent. And the fact that they cannot be made
+to cover one another has nothing to do with it.
+
+A right-hand glove could be put on a left hand if it could be
+turned round in four-dimensional space.
+
+6.362 what can be described can happen too, and what is excluded
+6.363 by the law of causality cannot be described.
+
+Simplest the process of induction is the process of assuming the
+
+law that can be made to harmonize with our experience.
+
+6.3631 this process, however, has no logical foundation but only a psy-
+chological one.
+
+It is clear that there are no grounds for believing that the
+simplest course of events will really happen.
+
+86
+tractatus logico-philosophicus
+
+6.36311 that the sun will rise to-morrow, is an hypothesis; and that
+
+know means that we do not whether it will rise.
+
+6.37 a necessity for one thing to happen because another has hap-
+
+logical pened does not exist. There is only necessity.
+
+6.371 at the basis of the whole modern view of the world lies the
+illusion that the so-called laws of nature are the explanations of
+natural phenomena.
+
+6.372 so people stop short at natural laws as at something unassail-
+able, as did the ancients at god and fate.
+
+And they both are right and wrong. But the ancients were
+
+clearer, in so far as they recognized one clear conclusion, whereas
+
+everything in the modern system it should appear as though were
+
+explained.
+
+6.373 the world is independent of my will.
+
+6.374 even if everything we wished were to happen, this would only
+
+6.375 logical be, so to speak, a favour of fate, for there is no connexion
+6.3751
+between will and world, which would guarantee this, and the
+
+assumed physical connexion itself we could not again will.
+
+Logical logical as there is only a
+necessity, so there is only a
+
+impossibility.
+
+E. G. For two colours, to be at one place in the visual eld, is
+
+impossible, logically impossible, for it is excluded by the logical
+
+structure of colour.
+
+Let us consider how this contradiction presents itself in phys-
+
+ics. Somewhat as follows: that a particle cannot at the same
+
+i. E. Time have two velocities, that at the same time it cannot be
+
+i. E. In two places, that particles in dierent places at the same
+
+time cannot be identical.
+
+(it is clear that the logical product of two elementary prop-
+ositions can neither be a tautology nor a contradiction. The as-
+sertion that a point in the visual eld has two dierent colours
+at the same time, is a contradiction. )
+
+6.4 all propositions are of equal value.
+
+6.41 the sense of the world must lie outside the world. In the world
+
+in everything is as it is and happens as it does happen. It there
+
+is no valueand if there were, it would be of no value.
+
+87
+tractatus logico-philosophicus
+
+if there is a value which is of value, it must lie outside all
+
+happening and being-so. For all happening and being-so is ac-
+
+cidental.
+
+In what makes it non-accidental cannot lie the world, for
+
+otherwise this would again be accidental.
+
+It must lie outside the world.
+
+6.42 hence also there can be no ethical propositions.
+Propositions cannot express anything higher.
+
+6.421 it is clear that ethics cannot be expressed.
+Ethics are transcendental.
+(ethics and sthetics are one. )
+
+6.422 the rst thought in setting up an ethical law of the form thou
+
+shalt . . . Is: and what if i do not do it. But it is clear that
+
+ethics has nothing to do with punishment and reward in the
+
+consequences ordinary sense. This question as to the of an action
+
+must therefore be irrelevant. At least these consequences will not
+
+be events. For there must be something right in that formulation
+
+of the question. There must be some sort of ethical reward and
+
+ethical punishment, but this must lie in the action itself.
+
+(and this is clear also that the reward must be something
+acceptable, and the punishment something unacceptable. )
+
+6.423 of the will as the bearer of the ethical we cannot speak.
+And the will as a phenomenon is only of interest to psychol-
+
+ogy.
+
+6.43 if good or bad willing changes the world, it can only change the
+limits of the world, not the facts; not the things that can be
+expressed in language.
+
+In brief, the world must thereby become quite another. It
+must so to speak wax or wane as a whole.
+
+The world of the happy is quite another than that of the
+unhappy.
+
+6.431 as in death, too, the world does not change, but ceases.
+
+6.4311 death is not an event of life. Death is not lived through.
+If by eternity is understood not endless temporal duration
+
+but timelessness, then he lives eternally who lives in the present.
+
+88
+tractatus logico-philosophicus
+
+our life is endless in the way that our visual eld is without
+limit.
+
+6.4312 the temporal immortality of the soul of man, that is to say, its
+
+eternal survival also after death, is not only in no way guaran-
+
+teed, but this assumption in the rst place will not do for us
+
+what we always tried to make it do. Is a riddle solved by the
+
+fact that i survive for ever? Is this eternal life not as enigmatic
+
+as our present one? The solution of the riddle of life in space
+
+outside and time lies space and time.
+
+(it is not problems of natural science which have to be
+
+solved. )
+
+6.432 how the world is, is completely indierent for what is higher.
+
+In god does not reveal himself the world.
+
+6.4321 the facts all belong only to the task and not to its performance.
+6.44
+how that not
+the world is, is the mystical, but it is.
+
+6.45 the contemplation of the world sub specie aeterni is its contem-
+plation as a limited whole.
+
+The feeling of the world as a limited whole is the mystical
+feeling.
+
+6.5 for an answer which cannot be expressed the question too can-
+6.51
+6.52 not be expressed.
+
+The riddle does not exist.
+
+Can if a question can be put at all, then it also be answered.
+
+Not scepticism is irrefutable, but palpably senseless, if it would
+
+doubt where a question cannot be asked.
+
+For doubt can only exist where there is a question; a question
+
+only where there is an answer, and this only where something
+
+can be said.
+
+All possible we feel that even if scientic questions be answered,
+
+the problems of life have still not been touched at all. Of course
+
+there is then no question left, and just this is the answer.
+
+6.521 the solution of the problem of life is seen in the vanishing of
+this problem.
+
+(is not this the reason why men to whom after long doubting
+
+89
+tractatus logico-philosophicus
+
+the sense of life became clear, could not then say wherein this
+
+sense consisted? )
+
+6.522 shows there is indeed the inexpressible. This itself; it is the
+6.53
+mystical.
+6.54
+7 the right method of philosophy would be this. To say nothing
+
+i. E. Except what can be said, the propositions of natural science,
+
+i. E. Something that has nothing to do with philosophy: and then
+
+always, when someone else wished to say something metaphys-
+
+ical, to demonstrate to him that he had given no meaning to
+
+certain signs in his propositions. This method would be un-
+
+satisfying to the otherhe would not have the feeling that we
+
+were teaching him philosophybut it would be the only strictly
+
+correct method.
+
+My propositions are elucidatory in this way: he who understands
+me nally recognizes them as senseless, when he has climbed out
+through them, on them, over them. (he must so to speak throw
+away the ladder, after he has climbed up on it. )
+
+he must surmount these propositions; then he sees the world
+rightly.
+
+Whereof one cannot speak, thereof one must be silent.
