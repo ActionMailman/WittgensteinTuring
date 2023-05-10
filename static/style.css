@@ -9,6 +9,21 @@ body {
   padding:0;
 }
 
+#title {
+  padding: 5%;
+  background-image: url("./witt.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-bottom: 25%;
+  color: white;
+}
+
+#title h1 {
+  font-size: 2.5em;
+  float:none;
+}
+
 #table {
   margin-right: 15%;
   margin-left: 15%;
@@ -70,10 +85,7 @@ nav li {
   font-size: 1.1em;
 }
 
-#title {
-  font-size: 1.5em;
-  float:none;
-}
+
 
 #textGen {
   margin: 15px;
