@@ -113,6 +113,18 @@ button:active {
   text-decoration: underline;
 }
 
+
+/* Media */
+
+@media screen and (max-width: 900px) {
+  #content h2 {
+    line-height:normal;
+  }
+  
+}
+
+
+
 /* Animations */
 
 body {
